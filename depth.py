@@ -7,7 +7,7 @@ header={
     'Accept-Encoding': 'gzip, deflate, br',
 }
 s = requests.Session()
-s.mount(t_url, HTTPAdapter(max_retries=5))
+s.mount(m_url, HTTPAdapter(max_retries=5))
 
 # payload_id=requests.get("http://nepse-payload-id.samrid.me",headers=header)
 
@@ -30,7 +30,7 @@ f= open("files/"+ filename,"a")
 delimiter="|"
 
 for i in basic_list[:]:
-  print(t_url.format(i["id"]))
+#   print(t_url.format(i["id"]))
   f.write(str(datetime.datetime.now()))
   f.write(delimiter+i["symbol"]+delimiter)
   try:
