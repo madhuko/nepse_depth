@@ -17,7 +17,7 @@ basic_list=requests.get(b_url,headers=header).json()
 
 f= open("files/depth.txt","a")
 delimiter="|"
-for i in basic_list[:3]:
+for i in basic_list[:]:
   print(t_url.format(i["id"]))
   f.write(str(datetime.datetime.now()))
   f.write(delimiter+i["symbol"]+delimiter)
