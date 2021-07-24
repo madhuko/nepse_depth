@@ -10,7 +10,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '25 06 * * *' # Every Day at 4PM NST (10:15am UTC)
+    - cron: '40 06 * * *' # Every Day at 4PM NST (10:15am UTC)
 
 jobs:
 
@@ -24,11 +24,11 @@ jobs:
       - name: Setup Python Environment
         uses: actions/setup-python@v2
         with:
-          python-version: 3.7
+          python-version: 3.8
       
-#       - name: Install Dependencies
-#         run: |
-#           pip install -r requirements.txt
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
       
       - name: Execute Scraping Script
         run: |
