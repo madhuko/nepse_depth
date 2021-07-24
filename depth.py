@@ -15,8 +15,8 @@ t_url="https://newweb.nepalstock.com.np/api/nots/security-detail/{}"
 
 basic_list=requests.get(b_url,headers=header).json()
 
-f= open("files/depth.txt","a")
-delimiter="|"
+filename=str(datetime.datetime.now())[:16].replace(":","").replace("-","")
+f= open(filename,"a")delimiter="|"
 for i in basic_list[:]:
   print(t_url.format(i["id"]))
   f.write(str(datetime.datetime.now()))
