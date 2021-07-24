@@ -16,12 +16,16 @@ t_url="https://newweb.nepalstock.com.np/api/nots/security-detail/{}"
 basic_list=requests.get(b_url,headers=header).json()
 
 f= open("depth.txt","a")
-for i in basic_list[:]:
+delimiter="|"
+for i in basic_list[:3]:
   print(t_url.format(i["id"]))
-  resp=requests.get(t_url.format(i["id"]),headers=header).json()
-  text=str(datetime.datetime.now())
-  f.write(text)
-  f.write("\n")
-  f.write(str(resp))
+  f.write(str(datetime.datetime.now()))
+  f.write(delimiter+i["symbol"]+delimiter)
+  try:
+    resp=requests.get(m_url.format(i["id"]),headers=header)
+    f.write(resp.text())
+  except:
+    f.write("NULL")
+  
   f.write("\n")
 f.close()
