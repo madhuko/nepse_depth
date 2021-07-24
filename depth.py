@@ -6,14 +6,15 @@ header={
     'content-type': 'application/json',
     'Accept-Encoding': 'gzip, deflate, br',
 }
+b_url="https://newweb.nepalstock.com.np/api/nots/company/list"
+m_url="https://newweb.nepalstock.com.np/api/nots/nepse-data/marketdepth/{}"
+t_url="https://newweb.nepalstock.com.np/api/nots/security-detail/{}"
+
 s = requests.Session()
 s.mount(m_url, HTTPAdapter(max_retries=5))
 
 # payload_id=requests.get("http://nepse-payload-id.samrid.me",headers=header)
 
-b_url="https://newweb.nepalstock.com.np/api/nots/company/list"
-m_url="https://newweb.nepalstock.com.np/api/nots/nepse-data/marketdepth/{}"
-t_url="https://newweb.nepalstock.com.np/api/nots/security-detail/{}"
 basic_list=requests.get(b_url,headers=header).json()
 
 filtered_list=[]
