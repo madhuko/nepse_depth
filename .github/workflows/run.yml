@@ -5,9 +5,9 @@ name: run
 #       - master
 
 on:
-#   push:
-#     branches:
-#       - main
+  push:
+    branches:
+    - main
   schedule:
     - cron: '15 05 * * *' # Every Day at 4PM NST (10:15am UTC)
     - cron: '45 05 * * *'
