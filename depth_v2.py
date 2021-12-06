@@ -1,4 +1,5 @@
 # %%
+import datetime
 #%%
 import pandas as pd
 import requests
@@ -119,7 +120,8 @@ class Nepse:
         self.getStockDepth_url    ="https://newweb.nepalstock.com.np/api/nots/nepse-data/marketdepth/{}"
         self.getListedStock_url="https://newweb.nepalstock.com.np/api/nots/securityDailyTradeStat/{}"
         self.get_all_listed_url="https://newweb.nepalstock.com.np/api/nots/company/list"
-        
+        self.get_market_depth_url="https://newweb.nepalstock.com.np/api/nots/nepse-data/marketdepth/{}"
+
         self.headers= {
                             'Host': 'newweb.nepalstock.com',
                             'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0',
@@ -203,6 +205,41 @@ class Nepse:
     def get_all_listed(self):
       access_token=self.getValidToken()
       return self.requestAPI(url=self.get_all_listed_url,access_token=access_token)
+
+    def get_market_depth(self,id):
+        access_token=self.getValidToken()
+        return self.requestAPI(url=self.get_market_depth_url.format(id),access_token=access_token)
 ####################################Usage####################################
 nepse = Nepse()
+# %%
+basic_list=nepse.get_all_listed()
+
+
+filtered_list=[]
+for i in basic_list:
+  if i['instrumentType'] in ['Equity','Mutual Funds']:
+    filtered_list.append(i)
+basic_list=[]
+for i in filtered_list:
+  if i['status']=="A":
+    basic_list.append(i)
+# %%
+filename=str(datetime.datetime.now())[:16].replace(":","").replace("-","")
+f= open("files/"+ filename,"a")
+delimiter="|"
+
+for i in basic_list[:]:
+#   print(t_url.format(i["id"]))
+  f.write(str(datetime.datetime.now()))
+  f.write(delimiter+i["symbol"]+delimiter)
+  try:
+    resp=nepse.get_market_depth(i["id"])
+    f.write(resp.text)
+  except:
+    f.write("NULL")
+  
+  f.write("\n")
+f.close()
+
+
 # %%
