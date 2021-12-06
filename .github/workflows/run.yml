@@ -9,7 +9,7 @@ on:
 #   push:
 #     branches:
 #       - main
-#  schedule:
+ schedule:
     - cron: '15 05 * * *' # Every Day at 4PM NST (10:15am UTC)
     - cron: '45 05 * * *'
     - cron: '15 06 * * *'
@@ -40,7 +40,7 @@ jobs:
       
       - name: Execute Scraping Script
         run: |
-          python depth.py
+          python depth_v2.py
 
       - name: Commit and Push Files
         run: |
