@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: run
 
 # on:
@@ -54,3 +55,61 @@ jobs:
       #   uses: ad-m/github-push-action@main
       #   with:
       #     github_token: ${{ secrets.GITHUB_TOKEN }}
+=======
+name: run
+
+# on:
+#   push:
+#     branches:
+#       - master
+
+on:
+#   push:
+#     branches:
+#       - main
+ schedule:
+    - cron: '15 05 * * *' # Every Day at 4PM NST (10:15am UTC)
+    - cron: '45 05 * * *'
+    - cron: '15 06 * * *'
+    - cron: '45 06 * * *'
+    - cron: '15 07 * * *'
+    - cron: '45 07 * * *'
+    - cron: '15 08 * * *'
+    - cron: '45 08 * * *'
+  
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 
+        uses: actions/checkout@v2
+
+      - name: Setup Python Environment
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Execute Scraping Script
+        run: |
+          python depth_v2.py
+
+      - name: Commit and Push Files
+        run: |
+           git config --local user.email "madhuko@outlook.com"
+           git config --local user.name "madhuko"        
+           git add .
+           git commit -m "Data Scraped Sucessfully" -a
+           git push origin main
+      
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@main
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 0c94aef77490cfc34876098f765d1bf4512dbe6a
