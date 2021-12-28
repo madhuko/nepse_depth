@@ -229,7 +229,7 @@ f= open("files/"+ filename,"a")
 delimiter="|"
 
 for i in basic_list[:]:
-#   print(t_url.format(i["id"]))
+  print(nepse.get_market_depth_url.format(i["id"]))
   f.write(str(datetime.datetime.now()))
   f.write(delimiter+i["symbol"]+delimiter)
   try:
