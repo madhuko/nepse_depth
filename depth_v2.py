@@ -2,7 +2,7 @@
 import datetime
 #%%
 import pandas as pd
-import requests
+import requests,json
 
 class TokenParser():
     def __init__(self):
@@ -234,7 +234,7 @@ for i in basic_list[:]:
   f.write(delimiter+i["symbol"]+delimiter)
   try:
     resp=nepse.get_market_depth(i["id"])
-    f.write(resp.text)
+    f.write(json.dumps(resp))
   except:
     f.write("NULL")
   
