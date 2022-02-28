@@ -224,7 +224,7 @@ for i in filtered_list:
   if i['status']=="A":
     basic_list.append(i)
 # %%
-filename=str(datetime.datetime.now())[:16].replace(":","").replace("-","")
+filename=datetime.date.today().strftime("%Y%m%d")
 f= open("files/"+ filename,"a")
 delimiter="|"
 
