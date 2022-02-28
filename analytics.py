@@ -1,6 +1,6 @@
 # %%
 import pandas as pd
-import json
+import json,glob,datetime.date
 # %%
 df=pd.read_csv("files/20220226",delimiter="|",header=None)
 df.columns='a b c'.split()
