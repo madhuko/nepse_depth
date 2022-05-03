@@ -444,3 +444,226 @@
 2022-05-03 06:59:20.998619|JALPA|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
 2022-05-03 06:59:26.434809|NESDO|NULL
 2022-05-03 06:59:42.442612|GVL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:29:02.980212|NABIL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:29:07.894434|SCB|NULL
+2022-05-03 07:29:22.668566|SBI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:29:30.638056|EBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:29:33.215903|BOKL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:29:35.710288|NICA|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:29:38.667577|MBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:29:43.534212|LBL|NULL
+2022-05-03 07:29:56.748975|KBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:05.140443|NCCB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:07.694146|SBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:12.105762|SHL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:15.822200|TRH|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:18.483372|OHL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:39.604699|NHPC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:42.174662|BPCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:44.757137|CHCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:46.989369|STC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:30:51.561276|BBC|NULL
+2022-05-03 07:30:56.933418|NUBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:15.230308|CBBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:20.124079|DDBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:23.456443|SANIMA|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:25.686381|NABBC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:27.919212|NICL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:31.424275|RBCL|NULL
+2022-05-03 07:31:45.108730|NLICL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:52.225877|HGI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:54.709991|UIC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:57.066966|EIC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:31:59.287955|PIC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:01.515985|NIL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:05.463208|PRIN|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:24.218830|SIC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:27.754833|IGI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:29.985613|NLIC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:32.240054|LICN|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:34.482431|PICL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:36.715308|LGIL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:41.130763|SICL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:32:59.159156|NFS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:03.230802|BNL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:05.464590|NLO|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:07.841396|GUFL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:10.184031|CIT|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:12.418973|BNT|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:18.111540|UNL|NULL
+2022-05-03 07:33:29.195911|BFC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:36.247845|GFCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:41.492937|HDL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:43.726655|PFL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:45.971633|NMB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:33:48.201798|SIFC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:08.663319|CFCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:11.538626|JFL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:15.793305|PRVU|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:18.945467|SFCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:21.465850|GMFIL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:24.302458|SWBBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:30.549837|ICFC|NULL
+2022-05-03 07:34:43.315685|EDBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:48.373725|SIL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:54.483598|NTC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:57.013487|PROFL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:34:59.522971|GBIME|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:35:02.388443|CZBIL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:35:04.890367|PCBL|NULL
+2022-05-03 07:35:17.370232|LBBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:35:25.896229|SRBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:35:28.131197|AHPC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:35:30.562518|MDB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:35:33.075547|ALICL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:35:36.057793|PLIC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:35:38.374814|NLBBL|NULL
+2022-05-03 07:35:55.490228|ADBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:35:59.760434|MLBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:36:01.983782|SLICL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:36:04.498209|GBBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:36:09.680136|JBBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:36:14.568967|KRBL|NULL
+2022-05-03 07:36:27.562897|GLICL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:36:33.284785|CORBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:36:37.124548|KSBBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:36:39.635025|MPFL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:36:43.823939|SADBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:36:46.344180|SHINE|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:05.006297|MNBBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:09.600849|FMDBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:12.110531|SMFDB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:14.828164|MFIL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:17.067454|NBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:19.290808|CBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:40.675228|SLBBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:43.567440|NLG|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:46.778860|SINDU|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:49.313464|MEGA|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:53.530284|SKBBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:37:56.105288|RMDC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:38:17.118067|GBLBS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:38:19.702381|RLFL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:38:23.576891|SHPC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:38:25.853401|NSLB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:38:29.041488|KMCDB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:38:32.890272|MLBBL|NULL
+2022-05-03 07:38:47.799528|CCBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:38:55.614319|LLBS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:38:57.855876|MMFDB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:39:00.139760|BARUN|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:39:03.294860|VLBS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:39:05.557757|CLBSL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:39:26.974146|KLBSL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:39:29.312344|JSLBB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:39:31.541911|API|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:39:38.091545|NMBMF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:39:40.555142|GILB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:39:43.086747|GIMES1|NULL
+2022-05-03 07:39:53.889972|MERO|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:04.362194|HIDCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:06.591156|NGPL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:09.913273|GRDBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:12.461817|NMFBS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:14.688392|RSDC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:28.596255|KKHC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:37.616427|NMBHF1|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:39.843170|NEF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:42.070907|DHPL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:45.246199|NIBLPF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:40:47.476391|AKPL|NULL
+2022-05-03 07:41:00.028998|FOWAD|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:10.143925|SPDL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:12.664427|UMHL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:18.534928|SMATA|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:21.060296|LEMF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:23.580323|CHL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:26.144505|HPPL|NULL
+2022-05-03 07:41:44.163991|MSLB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:48.356510|NHDL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:50.873048|SEF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:53.417967|SMB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:56.016499|SAEF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:41:58.241071|USLB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:42:19.973279|RADHI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:42:22.466351|NICGF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:42:26.187991|CMF1|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:42:28.929493|WNLB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:42:33.284240|PMHPL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:42:39.536789|KPCL|NULL
+2022-05-03 07:42:53.337918|AKJCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:42:57.055785|JOSHI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:02.378577|ACLBSL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:04.616676|UPPER|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:07.126494|SLBSL|NULL
+2022-05-03 07:43:10.932387|GHL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:25.496886|ALBSL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:33.944476|SHIVM|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:36.584775|UPCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:39.310717|MHNL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:41.829018|PPCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:44.056145|GMFBS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:43:48.995515|HURJA|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:07.547131|GLBSL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:11.740848|SMFBS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:13.970451|UNHPL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:16.199365|ILBS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:18.435142|NBF2|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:20.947335|RHPL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:39.875209|SJCL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:44.594471|SABSL|NULL
+2022-05-03 07:44:46.818716|SIGS2|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:49.044844|SAPDBL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:53.602481|CMF2|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:44:56.031663|NICBF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:45:17.257785|NMB50|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:45:20.034919|SFMF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:45:22.259741|HDHPC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:45:24.841890|NRIC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:45:29.089401|NICLBSL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:45:47.663725|AIL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:45:53.131158|SDLBSL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:45:55.976104|NRN|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:01.415058|RLI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:04.163223|LUK|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:06.401878|LEC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:27.967523|GIC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:30.968624|SSHL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:33.646114|SGI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:35.873606|MEN|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:38.213055|UMRH|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:40.443079|PLI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:46:45.620079|CGH|NULL
+2022-05-03 07:47:02.203793|NIFRA|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:07.578637|SLCF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:09.810022|GLH|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:12.040875|MLBSL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:14.270764|JLI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:16.523106|KEF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:21.388436|SHEL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:39.590608|RURU|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:45.478046|SBCF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:48.335109|CHDC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:50.856135|PSF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:53.084880|NIBSF2|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:47:55.315079|JBLB|NULL
+2022-05-03 07:48:12.863155|MKLB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:48:16.807821|ULI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:48:21.182649|NICSF|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:48:23.696666|RMF1|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:48:26.256512|SLI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:48:28.483489|MKJC|NULL
+2022-05-03 07:48:44.926152|MLBS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:48:50.679500|SAHAS|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:48:52.917656|TPC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:48:55.319602|MMF1|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:48:57.549041|NBF3|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:49:00.069149|SPC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:49:19.461850|NYADI|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:49:23.460265|MBJC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:49:25.969208|BNHC|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:49:31.891245|ENL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:49:34.119715|RULB|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:49:36.346894|JALPA|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
+2022-05-03 07:49:41.523313|NESDO|NULL
+2022-05-03 07:49:55.107698|GVL|{"totalBuyQty": 0, "marketDepth": {"buyMarketDepthList": [], "sellMarketDepthList": []}, "totalSellQty": 0}
