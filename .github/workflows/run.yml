@@ -9,14 +9,14 @@ on:
 #     branches:
 #     - main
   schedule:
-    - cron: '15 05 * * 0-4'
-    - cron: '45 05 * * 0-4'
-    - cron: '15 06 * * 0-4'
-    - cron: '45 06 * * 0-4'
-    - cron: '15 07 * * 0-4'
-    - cron: '45 07 * * 0-4'
-    - cron: '15 08 * * 0-4'
-    - cron: '45 08 * * 0-4'
+    - cron: '15 05 * * 0-5'
+    - cron: '45 05 * * 0-5'
+    - cron: '15 06 * * 0-5'
+    - cron: '45 06 * * 0-5'
+    - cron: '15 07 * * 0-5'
+    - cron: '45 07 * * 0-5'
+    - cron: '15 08 * * 0-5'
+    - cron: '45 08 * * 0-5'
   
 jobs:
   # This workflow contains a single job called "build"
