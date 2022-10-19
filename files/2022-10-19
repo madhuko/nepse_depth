@@ -1276,3 +1276,216 @@
 2022-10-19 09:03:50.152978|AVYAN|{"totalBuyQty": 33060, "marketDepth": {"buyMarketDepthList": [{"stockId": 8117, "orderBookOrderPrice": 888.8, "quantity": 30509, "orderCount": 320, "isBuy": 1}, {"stockId": 8117, "orderBookOrderPrice": 888.7, "quantity": 210, "orderCount": 7, "isBuy": 1}, {"stockId": 8117, "orderBookOrderPrice": 888.6, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 8117, "orderBookOrderPrice": 888.5, "quantity": 550, "orderCount": 6, "isBuy": 1}, {"stockId": 8117, "orderBookOrderPrice": 888.4, "quantity": 20, "orderCount": 2, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 8117, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 8117, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 8117, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 8117, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 8117, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}]}, "totalSellQty": 0}
 2022-10-19 09:03:52.503749|SPHL|{"totalBuyQty": 14896, "marketDepth": {"buyMarketDepthList": [{"stockId": 8121, "orderBookOrderPrice": 235.6, "quantity": 13240, "orderCount": 92, "isBuy": 1}, {"stockId": 8121, "orderBookOrderPrice": 235.5, "quantity": 1020, "orderCount": 2, "isBuy": 1}, {"stockId": 8121, "orderBookOrderPrice": 235.3, "quantity": 70, "orderCount": 1, "isBuy": 1}, {"stockId": 8121, "orderBookOrderPrice": 235.2, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 8121, "orderBookOrderPrice": 235.1, "quantity": 30, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 8121, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 8121, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 8121, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 8121, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 8121, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}]}, "totalSellQty": 0}
 2022-10-19 09:03:55.005385|PPL|{"totalBuyQty": 12414, "marketDepth": {"buyMarketDepthList": [{"stockId": 8122, "orderBookOrderPrice": 210.6, "quantity": 20, "orderCount": 1, "isBuy": 1}, {"stockId": 8122, "orderBookOrderPrice": 210.5, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 8122, "orderBookOrderPrice": 210.0, "quantity": 140, "orderCount": 2, "isBuy": 1}, {"stockId": 8122, "orderBookOrderPrice": 209.9, "quantity": 500, "orderCount": 1, "isBuy": 1}, {"stockId": 8122, "orderBookOrderPrice": 209.8, "quantity": 16, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 8122, "orderBookOrderPrice": 210.8, "quantity": 20, "orderCount": 2, "isBuy": 2}, {"stockId": 8122, "orderBookOrderPrice": 210.9, "quantity": 40, "orderCount": 4, "isBuy": 2}, {"stockId": 8122, "orderBookOrderPrice": 211.0, "quantity": 90, "orderCount": 9, "isBuy": 2}, {"stockId": 8122, "orderBookOrderPrice": 211.5, "quantity": 20, "orderCount": 2, "isBuy": 2}, {"stockId": 8122, "orderBookOrderPrice": 211.7, "quantity": 10, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 5250}
+2022-10-19 09:13:57.151542|NABIL|{"totalBuyQty": 26910, "marketDepth": {"buyMarketDepthList": [{"stockId": 131, "orderBookOrderPrice": 795.0, "quantity": 60, "orderCount": 2, "isBuy": 1}, {"stockId": 131, "orderBookOrderPrice": 794.0, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 131, "orderBookOrderPrice": 793.0, "quantity": 245, "orderCount": 3, "isBuy": 1}, {"stockId": 131, "orderBookOrderPrice": 792.0, "quantity": 275, "orderCount": 6, "isBuy": 1}, {"stockId": 131, "orderBookOrderPrice": 791.2, "quantity": 20, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 131, "orderBookOrderPrice": 798.7, "quantity": 88, "orderCount": 1, "isBuy": 2}, {"stockId": 131, "orderBookOrderPrice": 799.0, "quantity": 660, "orderCount": 5, "isBuy": 2}, {"stockId": 131, "orderBookOrderPrice": 799.4, "quantity": 50, "orderCount": 1, "isBuy": 2}, {"stockId": 131, "orderBookOrderPrice": 799.5, "quantity": 211, "orderCount": 1, "isBuy": 2}, {"stockId": 131, "orderBookOrderPrice": 799.8, "quantity": 30, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 16374}
+2022-10-19 09:14:00.374992|SCB|{"totalBuyQty": 16675, "marketDepth": {"buyMarketDepthList": [{"stockId": 133, "orderBookOrderPrice": 403.2, "quantity": 123, "orderCount": 1, "isBuy": 1}, {"stockId": 133, "orderBookOrderPrice": 403.1, "quantity": 150, "orderCount": 3, "isBuy": 1}, {"stockId": 133, "orderBookOrderPrice": 403.0, "quantity": 762, "orderCount": 7, "isBuy": 1}, {"stockId": 133, "orderBookOrderPrice": 402.5, "quantity": 200, "orderCount": 1, "isBuy": 1}, {"stockId": 133, "orderBookOrderPrice": 402.1, "quantity": 359, "orderCount": 2, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 133, "orderBookOrderPrice": 405.0, "quantity": 430, "orderCount": 1, "isBuy": 2}, {"stockId": 133, "orderBookOrderPrice": 405.5, "quantity": 58, "orderCount": 1, "isBuy": 2}, {"stockId": 133, "orderBookOrderPrice": 407.0, "quantity": 196, "orderCount": 3, "isBuy": 2}, {"stockId": 133, "orderBookOrderPrice": 408.9, "quantity": 110, "orderCount": 1, "isBuy": 2}, {"stockId": 133, "orderBookOrderPrice": 409.0, "quantity": 52, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 3605}
+2022-10-19 09:14:02.951786|HBL|{"totalBuyQty": 2866, "marketDepth": {"buyMarketDepthList": [{"stockId": 134, "orderBookOrderPrice": 324.1, "quantity": 200, "orderCount": 1, "isBuy": 1}, {"stockId": 134, "orderBookOrderPrice": 324.0, "quantity": 313, "orderCount": 6, "isBuy": 1}, {"stockId": 134, "orderBookOrderPrice": 323.4, "quantity": 150, "orderCount": 1, "isBuy": 1}, {"stockId": 134, "orderBookOrderPrice": 323.0, "quantity": 100, "orderCount": 1, "isBuy": 1}, {"stockId": 134, "orderBookOrderPrice": 322.0, "quantity": 150, "orderCount": 2, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 134, "orderBookOrderPrice": 327.0, "quantity": 46, "orderCount": 2, "isBuy": 2}, {"stockId": 134, "orderBookOrderPrice": 328.5, "quantity": 60, "orderCount": 1, "isBuy": 2}, {"stockId": 134, "orderBookOrderPrice": 329.0, "quantity": 185, "orderCount": 4, "isBuy": 2}, {"stockId": 134, "orderBookOrderPrice": 329.6, "quantity": 227, "orderCount": 1, "isBuy": 2}, {"stockId": 134, "orderBookOrderPrice": 329.7, "quantity": 100, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 4005}
+2022-10-19 09:14:05.799671|SBI|{"totalBuyQty": 29207, "marketDepth": {"buyMarketDepthList": [{"stockId": 135, "orderBookOrderPrice": 265.0, "quantity": 1000, "orderCount": 2, "isBuy": 1}, {"stockId": 135, "orderBookOrderPrice": 264.0, "quantity": 420, "orderCount": 2, "isBuy": 1}, {"stockId": 135, "orderBookOrderPrice": 263.5, "quantity": 200, "orderCount": 1, "isBuy": 1}, {"stockId": 135, "orderBookOrderPrice": 263.1, "quantity": 67, "orderCount": 2, "isBuy": 1}, {"stockId": 135, "orderBookOrderPrice": 263.0, "quantity": 100, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 135, "orderBookOrderPrice": 266.0, "quantity": 989, "orderCount": 1, "isBuy": 2}, {"stockId": 135, "orderBookOrderPrice": 267.0, "quantity": 159, "orderCount": 1, "isBuy": 2}, {"stockId": 135, "orderBookOrderPrice": 268.5, "quantity": 376, "orderCount": 1, "isBuy": 2}, {"stockId": 135, "orderBookOrderPrice": 269.0, "quantity": 400, "orderCount": 2, "isBuy": 2}, {"stockId": 135, "orderBookOrderPrice": 269.5, "quantity": 300, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 8463}
+2022-10-19 09:14:08.641606|EBL|{"totalBuyQty": 34305, "marketDepth": {"buyMarketDepthList": [{"stockId": 137, "orderBookOrderPrice": 497.0, "quantity": 42, "orderCount": 1, "isBuy": 1}, {"stockId": 137, "orderBookOrderPrice": 496.0, "quantity": 10200, "orderCount": 2, "isBuy": 1}, {"stockId": 137, "orderBookOrderPrice": 495.5, "quantity": 50, "orderCount": 1, "isBuy": 1}, {"stockId": 137, "orderBookOrderPrice": 495.4, "quantity": 200, "orderCount": 1, "isBuy": 1}, {"stockId": 137, "orderBookOrderPrice": 495.2, "quantity": 200, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 137, "orderBookOrderPrice": 498.0, "quantity": 37, "orderCount": 1, "isBuy": 2}, {"stockId": 137, "orderBookOrderPrice": 499.0, "quantity": 490, "orderCount": 1, "isBuy": 2}, {"stockId": 137, "orderBookOrderPrice": 500.0, "quantity": 447, "orderCount": 5, "isBuy": 2}, {"stockId": 137, "orderBookOrderPrice": 501.0, "quantity": 100, "orderCount": 1, "isBuy": 2}, {"stockId": 137, "orderBookOrderPrice": 501.8, "quantity": 150, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 8543}
+2022-10-19 09:14:11.241626|NICA|{"totalBuyQty": 19604, "marketDepth": {"buyMarketDepthList": [{"stockId": 139, "orderBookOrderPrice": 615.1, "quantity": 536, "orderCount": 1, "isBuy": 1}, {"stockId": 139, "orderBookOrderPrice": 615.0, "quantity": 918, "orderCount": 4, "isBuy": 1}, {"stockId": 139, "orderBookOrderPrice": 613.0, "quantity": 1420, "orderCount": 4, "isBuy": 1}, {"stockId": 139, "orderBookOrderPrice": 612.2, "quantity": 130, "orderCount": 3, "isBuy": 1}, {"stockId": 139, "orderBookOrderPrice": 612.1, "quantity": 100, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 139, "orderBookOrderPrice": 617.9, "quantity": 990, "orderCount": 1, "isBuy": 2}, {"stockId": 139, "orderBookOrderPrice": 618.0, "quantity": 257, "orderCount": 2, "isBuy": 2}, {"stockId": 139, "orderBookOrderPrice": 619.0, "quantity": 100, "orderCount": 1, "isBuy": 2}, {"stockId": 139, "orderBookOrderPrice": 620.0, "quantity": 348, "orderCount": 6, "isBuy": 2}, {"stockId": 139, "orderBookOrderPrice": 621.0, "quantity": 40, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 5814}
+2022-10-19 09:14:13.848537|MBL|{"totalBuyQty": 22978, "marketDepth": {"buyMarketDepthList": [{"stockId": 140, "orderBookOrderPrice": 218.1, "quantity": 111, "orderCount": 2, "isBuy": 1}, {"stockId": 140, "orderBookOrderPrice": 218.0, "quantity": 1435, "orderCount": 14, "isBuy": 1}, {"stockId": 140, "orderBookOrderPrice": 217.7, "quantity": 200, "orderCount": 1, "isBuy": 1}, {"stockId": 140, "orderBookOrderPrice": 217.6, "quantity": 20, "orderCount": 1, "isBuy": 1}, {"stockId": 140, "orderBookOrderPrice": 217.5, "quantity": 300, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 140, "orderBookOrderPrice": 218.9, "quantity": 850, "orderCount": 1, "isBuy": 2}, {"stockId": 140, "orderBookOrderPrice": 219.0, "quantity": 1133, "orderCount": 1, "isBuy": 2}, {"stockId": 140, "orderBookOrderPrice": 220.0, "quantity": 363, "orderCount": 2, "isBuy": 2}, {"stockId": 140, "orderBookOrderPrice": 220.9, "quantity": 55, "orderCount": 1, "isBuy": 2}, {"stockId": 140, "orderBookOrderPrice": 221.0, "quantity": 300, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 7705}
+2022-10-19 09:14:17.049200|LBL|NULL
+2022-10-19 09:14:19.954166|SBL|{"totalBuyQty": 11816, "marketDepth": {"buyMarketDepthList": [{"stockId": 145, "orderBookOrderPrice": 304.3, "quantity": 100, "orderCount": 1, "isBuy": 1}, {"stockId": 145, "orderBookOrderPrice": 304.2, "quantity": 1040, "orderCount": 2, "isBuy": 1}, {"stockId": 145, "orderBookOrderPrice": 304.0, "quantity": 1770, "orderCount": 4, "isBuy": 1}, {"stockId": 145, "orderBookOrderPrice": 303.5, "quantity": 200, "orderCount": 1, "isBuy": 1}, {"stockId": 145, "orderBookOrderPrice": 303.0, "quantity": 600, "orderCount": 2, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 145, "orderBookOrderPrice": 305.0, "quantity": 200, "orderCount": 1, "isBuy": 2}, {"stockId": 145, "orderBookOrderPrice": 306.0, "quantity": 50, "orderCount": 1, "isBuy": 2}, {"stockId": 145, "orderBookOrderPrice": 307.0, "quantity": 94, "orderCount": 3, "isBuy": 2}, {"stockId": 145, "orderBookOrderPrice": 307.1, "quantity": 520, "orderCount": 2, "isBuy": 2}, {"stockId": 145, "orderBookOrderPrice": 307.5, "quantity": 51, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 5404}
+2022-10-19 09:14:22.484609|SHL|{"totalBuyQty": 54359, "marketDepth": {"buyMarketDepthList": [{"stockId": 147, "orderBookOrderPrice": 212.0, "quantity": 670, "orderCount": 3, "isBuy": 1}, {"stockId": 147, "orderBookOrderPrice": 211.7, "quantity": 500, "orderCount": 1, "isBuy": 1}, {"stockId": 147, "orderBookOrderPrice": 211.6, "quantity": 500, "orderCount": 1, "isBuy": 1}, {"stockId": 147, "orderBookOrderPrice": 211.5, "quantity": 2100, "orderCount": 4, "isBuy": 1}, {"stockId": 147, "orderBookOrderPrice": 211.4, "quantity": 720, "orderCount": 2, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 147, "orderBookOrderPrice": 213.0, "quantity": 885, "orderCount": 3, "isBuy": 2}, {"stockId": 147, "orderBookOrderPrice": 213.8, "quantity": 100, "orderCount": 1, "isBuy": 2}, {"stockId": 147, "orderBookOrderPrice": 213.9, "quantity": 300, "orderCount": 2, "isBuy": 2}, {"stockId": 147, "orderBookOrderPrice": 214.0, "quantity": 300, "orderCount": 3, "isBuy": 2}, {"stockId": 147, "orderBookOrderPrice": 214.5, "quantity": 300, "orderCount": 2, "isBuy": 2}]}, "totalSellQty": 39265}
+2022-10-19 09:14:25.081399|TRH|{"totalBuyQty": 6720, "marketDepth": {"buyMarketDepthList": [{"stockId": 148, "orderBookOrderPrice": 322.0, "quantity": 480, "orderCount": 1, "isBuy": 1}, {"stockId": 148, "orderBookOrderPrice": 319.3, "quantity": 1200, "orderCount": 1, "isBuy": 1}, {"stockId": 148, "orderBookOrderPrice": 318.0, "quantity": 50, "orderCount": 1, "isBuy": 1}, {"stockId": 148, "orderBookOrderPrice": 316.3, "quantity": 200, "orderCount": 1, "isBuy": 1}, {"stockId": 148, "orderBookOrderPrice": 316.2, "quantity": 250, "orderCount": 2, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 148, "orderBookOrderPrice": 326.0, "quantity": 100, "orderCount": 1, "isBuy": 2}, {"stockId": 148, "orderBookOrderPrice": 328.0, "quantity": 605, "orderCount": 1, "isBuy": 2}, {"stockId": 148, "orderBookOrderPrice": 328.4, "quantity": 40, "orderCount": 1, "isBuy": 2}, {"stockId": 148, "orderBookOrderPrice": 330.0, "quantity": 10, "orderCount": 1, "isBuy": 2}, {"stockId": 148, "orderBookOrderPrice": 331.9, "quantity": 150, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 2230}
+2022-10-19 09:14:27.653882|OHL|{"totalBuyQty": 3180, "marketDepth": {"buyMarketDepthList": [{"stockId": 149, "orderBookOrderPrice": 440.0, "quantity": 190, "orderCount": 2, "isBuy": 1}, {"stockId": 149, "orderBookOrderPrice": 438.1, "quantity": 1490, "orderCount": 1, "isBuy": 1}, {"stockId": 149, "orderBookOrderPrice": 437.0, "quantity": 1500, "orderCount": 2, "isBuy": 1}, {"stockId": 149, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 1}, {"stockId": 149, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 149, "orderBookOrderPrice": 450.0, "quantity": 750, "orderCount": 1, "isBuy": 2}, {"stockId": 149, "orderBookOrderPrice": 455.0, "quantity": 455, "orderCount": 2, "isBuy": 2}, {"stockId": 149, "orderBookOrderPrice": 458.8, "quantity": 100, "orderCount": 1, "isBuy": 2}, {"stockId": 149, "orderBookOrderPrice": 459.0, "quantity": 2050, "orderCount": 3, "isBuy": 2}, {"stockId": 149, "orderBookOrderPrice": 464.0, "quantity": 1426, "orderCount": 4, "isBuy": 2}]}, "totalSellQty": 4841}
+2022-10-19 09:14:29.911191|NHPC|{"totalBuyQty": 46207, "marketDepth": {"buyMarketDepthList": [{"stockId": 152, "orderBookOrderPrice": 180.0, "quantity": 220, "orderCount": 3, "isBuy": 1}, {"stockId": 152, "orderBookOrderPrice": 179.4, "quantity": 20, "orderCount": 1, "isBuy": 1}, {"stockId": 152, "orderBookOrderPrice": 179.2, "quantity": 35, "orderCount": 1, "isBuy": 1}, {"stockId": 152, "orderBookOrderPrice": 179.1, "quantity": 5300, "orderCount": 2, "isBuy": 1}, {"stockId": 152, "orderBookOrderPrice": 179.0, "quantity": 904, "orderCount": 7, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 152, "orderBookOrderPrice": 181.0, "quantity": 680, "orderCount": 1, "isBuy": 2}, {"stockId": 152, "orderBookOrderPrice": 182.0, "quantity": 1735, "orderCount": 4, "isBuy": 2}, {"stockId": 152, "orderBookOrderPrice": 183.0, "quantity": 120, "orderCount": 1, "isBuy": 2}, {"stockId": 152, "orderBookOrderPrice": 183.9, "quantity": 500, "orderCount": 1, "isBuy": 2}, {"stockId": 152, "orderBookOrderPrice": 184.0, "quantity": 1000, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 24067}
+2022-10-19 09:14:32.504373|BPCL|{"totalBuyQty": 11260, "marketDepth": {"buyMarketDepthList": [{"stockId": 153, "orderBookOrderPrice": 293.5, "quantity": 36, "orderCount": 1, "isBuy": 1}, {"stockId": 153, "orderBookOrderPrice": 293.4, "quantity": 100, "orderCount": 1, "isBuy": 1}, {"stockId": 153, "orderBookOrderPrice": 293.3, "quantity": 20, "orderCount": 1, "isBuy": 1}, {"stockId": 153, "orderBookOrderPrice": 293.2, "quantity": 50, "orderCount": 1, "isBuy": 1}, {"stockId": 153, "orderBookOrderPrice": 293.0, "quantity": 125, "orderCount": 3, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 153, "orderBookOrderPrice": 294.0, "quantity": 522, "orderCount": 2, "isBuy": 2}, {"stockId": 153, "orderBookOrderPrice": 295.0, "quantity": 1030, "orderCount": 2, "isBuy": 2}, {"stockId": 153, "orderBookOrderPrice": 296.9, "quantity": 100, "orderCount": 1, "isBuy": 2}, {"stockId": 153, "orderBookOrderPrice": 297.0, "quantity": 1280, "orderCount": 5, "isBuy": 2}, {"stockId": 153, "orderBookOrderPrice": 297.8, "quantity": 140, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 4698}
+2022-10-19 09:14:35.064269|CHCL|{"totalBuyQty": 9786, "marketDepth": {"buyMarketDepthList": [{"stockId": 154, "orderBookOrderPrice": 358.8, "quantity": 500, "orderCount": 1, "isBuy": 1}, {"stockId": 154, "orderBookOrderPrice": 358.7, "quantity": 100, "orderCount": 1, "isBuy": 1}, {"stockId": 154, "orderBookOrderPrice": 358.4, "quantity": 100, "orderCount": 1, "isBuy": 1}, {"stockId": 154, "orderBookOrderPrice": 358.2, "quantity": 460, "orderCount": 1, "isBuy": 1}, {"stockId": 154, "orderBookOrderPrice": 358.1, "quantity": 469, "orderCount": 4, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 154, "orderBookOrderPrice": 359.5, "quantity": 87, "orderCount": 1, "isBuy": 2}, {"stockId": 154, "orderBookOrderPrice": 360.0, "quantity": 31, "orderCount": 1, "isBuy": 2}, {"stockId": 154, "orderBookOrderPrice": 361.0, "quantity": 739, "orderCount": 2, "isBuy": 2}, {"stockId": 154, "orderBookOrderPrice": 362.0, "quantity": 363, "orderCount": 1, "isBuy": 2}, {"stockId": 154, "orderBookOrderPrice": 363.0, "quantity": 190, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 4620}
+2022-10-19 09:14:37.656635|STC|{"totalBuyQty": 722, "marketDepth": {"buyMarketDepthList": [{"stockId": 155, "orderBookOrderPrice": 3370.0, "quantity": 70, "orderCount": 1, "isBuy": 1}, {"stockId": 155, "orderBookOrderPrice": 3369.0, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 155, "orderBookOrderPrice": 3367.0, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 155, "orderBookOrderPrice": 3366.3, "quantity": 20, "orderCount": 1, "isBuy": 1}, {"stockId": 155, "orderBookOrderPrice": 3360.0, "quantity": 100, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 155, "orderBookOrderPrice": 3398.0, "quantity": 10, "orderCount": 1, "isBuy": 2}, {"stockId": 155, "orderBookOrderPrice": 3399.0, "quantity": 10, "orderCount": 1, "isBuy": 2}, {"stockId": 155, "orderBookOrderPrice": 3412.0, "quantity": 19, "orderCount": 1, "isBuy": 2}, {"stockId": 155, "orderBookOrderPrice": 3413.9, "quantity": 33, "orderCount": 1, "isBuy": 2}, {"stockId": 155, "orderBookOrderPrice": 3419.0, "quantity": 10, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 546}
+2022-10-19 09:14:40.213147|BBC|{"totalBuyQty": 353, "marketDepth": {"buyMarketDepthList": [{"stockId": 156, "orderBookOrderPrice": 3161.5, "quantity": 120, "orderCount": 1, "isBuy": 1}, {"stockId": 156, "orderBookOrderPrice": 3161.2, "quantity": 14, "orderCount": 1, "isBuy": 1}, {"stockId": 156, "orderBookOrderPrice": 3160.0, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 156, "orderBookOrderPrice": 3150.0, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 156, "orderBookOrderPrice": 3110.1, "quantity": 12, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 156, "orderBookOrderPrice": 3225.0, "quantity": 70, "orderCount": 2, "isBuy": 2}, {"stockId": 156, "orderBookOrderPrice": 3233.0, "quantity": 50, "orderCount": 1, "isBuy": 2}, {"stockId": 156, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 156, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 156, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}]}, "totalSellQty": 120}
+2022-10-19 09:14:42.776599|NUBL|{"totalBuyQty": 1931, "marketDepth": {"buyMarketDepthList": [{"stockId": 163, "orderBookOrderPrice": 902.0, "quantity": 16, "orderCount": 1, "isBuy": 1}, {"stockId": 163, "orderBookOrderPrice": 901.0, "quantity": 70, "orderCount": 2, "isBuy": 1}, {"stockId": 163, "orderBookOrderPrice": 900.0, "quantity": 415, "orderCount": 9, "isBuy": 1}, {"stockId": 163, "orderBookOrderPrice": 899.0, "quantity": 111, "orderCount": 1, "isBuy": 1}, {"stockId": 163, "orderBookOrderPrice": 898.0, "quantity": 70, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 163, "orderBookOrderPrice": 907.9, "quantity": 100, "orderCount": 1, "isBuy": 2}, {"stockId": 163, "orderBookOrderPrice": 908.0, "quantity": 100, "orderCount": 1, "isBuy": 2}, {"stockId": 163, "orderBookOrderPrice": 908.3, "quantity": 10, "orderCount": 1, "isBuy": 2}, {"stockId": 163, "orderBookOrderPrice": 911.0, "quantity": 70, "orderCount": 2, "isBuy": 2}, {"stockId": 163, "orderBookOrderPrice": 913.9, "quantity": 100, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 1850}
+2022-10-19 09:14:45.041976|CBBL|{"totalBuyQty": 3567, "marketDepth": {"buyMarketDepthList": [{"stockId": 164, "orderBookOrderPrice": 985.0, "quantity": 511, "orderCount": 6, "isBuy": 1}, {"stockId": 164, "orderBookOrderPrice": 983.0, "quantity": 40, "orderCount": 3, "isBuy": 1}, {"stockId": 164, "orderBookOrderPrice": 982.5, "quantity": 13, "orderCount": 1, "isBuy": 1}, {"stockId": 164, "orderBookOrderPrice": 982.0, "quantity": 55, "orderCount": 4, "isBuy": 1}, {"stockId": 164, "orderBookOrderPrice": 981.2, "quantity": 10, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 164, "orderBookOrderPrice": 985.1, "quantity": 30, "orderCount": 1, "isBuy": 2}, {"stockId": 164, "orderBookOrderPrice": 986.0, "quantity": 17, "orderCount": 1, "isBuy": 2}, {"stockId": 164, "orderBookOrderPrice": 987.0, "quantity": 225, "orderCount": 2, "isBuy": 2}, {"stockId": 164, "orderBookOrderPrice": 987.8, "quantity": 30, "orderCount": 1, "isBuy": 2}, {"stockId": 164, "orderBookOrderPrice": 987.9, "quantity": 83, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 3634}
+2022-10-19 09:14:47.637456|DDBL|{"totalBuyQty": 5658, "marketDepth": {"buyMarketDepthList": [{"stockId": 166, "orderBookOrderPrice": 899.1, "quantity": 50, "orderCount": 1, "isBuy": 1}, {"stockId": 166, "orderBookOrderPrice": 899.0, "quantity": 440, "orderCount": 4, "isBuy": 1}, {"stockId": 166, "orderBookOrderPrice": 898.1, "quantity": 20, "orderCount": 1, "isBuy": 1}, {"stockId": 166, "orderBookOrderPrice": 897.0, "quantity": 30, "orderCount": 1, "isBuy": 1}, {"stockId": 166, "orderBookOrderPrice": 896.1, "quantity": 25, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 166, "orderBookOrderPrice": 900.0, "quantity": 141, "orderCount": 2, "isBuy": 2}, {"stockId": 166, "orderBookOrderPrice": 904.0, "quantity": 50, "orderCount": 1, "isBuy": 2}, {"stockId": 166, "orderBookOrderPrice": 904.5, "quantity": 100, "orderCount": 1, "isBuy": 2}, {"stockId": 166, "orderBookOrderPrice": 904.9, "quantity": 30, "orderCount": 1, "isBuy": 2}, {"stockId": 166, "orderBookOrderPrice": 906.9, "quantity": 110, "orderCount": 2, "isBuy": 2}]}, "totalSellQty": 1359}
+2022-10-19 09:14:50.155808|SANIMA|{"totalBuyQty": 18275, "marketDepth": {"buyMarketDepthList": [{"stockId": 171, "orderBookOrderPrice": 250.0, "quantity": 170, "orderCount": 3, "isBuy": 1}, {"stockId": 171, "orderBookOrderPrice": 249.7, "quantity": 44, "orderCount": 1, "isBuy": 1}, {"stockId": 171, "orderBookOrderPrice": 249.6, "quantity": 50, "orderCount": 1, "isBuy": 1}, {"stockId": 171, "orderBookOrderPrice": 249.5, "quantity": 100, "orderCount": 1, "isBuy": 1}, {"stockId": 171, "orderBookOrderPrice": 249.3, "quantity": 441, "orderCount": 2, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 171, "orderBookOrderPrice": 251.0, "quantity": 1612, "orderCount": 2, "isBuy": 2}, {"stockId": 171, "orderBookOrderPrice": 252.0, "quantity": 46, "orderCount": 2, "isBuy": 2}, {"stockId": 171, "orderBookOrderPrice": 253.0, "quantity": 14, "orderCount": 1, "isBuy": 2}, {"stockId": 171, "orderBookOrderPrice": 254.0, "quantity": 15, "orderCount": 1, "isBuy": 2}, {"stockId": 171, "orderBookOrderPrice": 254.4, "quantity": 100, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 10254}
+2022-10-19 09:14:52.400589|NABBC|{"totalBuyQty": 2150, "marketDepth": {"buyMarketDepthList": [{"stockId": 172, "orderBookOrderPrice": 350.0, "quantity": 200, "orderCount": 1, "isBuy": 1}, {"stockId": 172, "orderBookOrderPrice": 347.0, "quantity": 525, "orderCount": 2, "isBuy": 1}, {"stockId": 172, "orderBookOrderPrice": 346.0, "quantity": 570, "orderCount": 3, "isBuy": 1}, {"stockId": 172, "orderBookOrderPrice": 345.1, "quantity": 130, "orderCount": 2, "isBuy": 1}, {"stockId": 172, "orderBookOrderPrice": 345.0, "quantity": 295, "orderCount": 2, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 172, "orderBookOrderPrice": 357.0, "quantity": 82, "orderCount": 2, "isBuy": 2}, {"stockId": 172, "orderBookOrderPrice": 364.0, "quantity": 140, "orderCount": 2, "isBuy": 2}, {"stockId": 172, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 172, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}, {"stockId": 172, "orderBookOrderPrice": 0.0, "quantity": 0, "orderCount": 0, "isBuy": 2}]}, "totalSellQty": 231}
+2022-10-19 09:14:54.718682|NICL|{"totalBuyQty": 7999, "marketDepth": {"buyMarketDepthList": [{"stockId": 176, "orderBookOrderPrice": 391.6, "quantity": 172, "orderCount": 1, "isBuy": 1}, {"stockId": 176, "orderBookOrderPrice": 391.5, "quantity": 36, "orderCount": 2, "isBuy": 1}, {"stockId": 176, "orderBookOrderPrice": 391.1, "quantity": 70, "orderCount": 2, "isBuy": 1}, {"stockId": 176, "orderBookOrderPrice": 391.0, "quantity": 941, "orderCount": 3, "isBuy": 1}, {"stockId": 176, "orderBookOrderPrice": 390.5, "quantity": 100, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 176, "orderBookOrderPrice": 392.0, "quantity": 20, "orderCount": 1, "isBuy": 2}, {"stockId": 176, "orderBookOrderPrice": 392.8, "quantity": 555, "orderCount": 1, "isBuy": 2}, {"stockId": 176, "orderBookOrderPrice": 392.9, "quantity": 130, "orderCount": 1, "isBuy": 2}, {"stockId": 176, "orderBookOrderPrice": 393.0, "quantity": 144, "orderCount": 1, "isBuy": 2}, {"stockId": 176, "orderBookOrderPrice": 394.0, "quantity": 36, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 3509}
+2022-10-19 09:14:56.991203|RBCL|{"totalBuyQty": 550, "marketDepth": {"buyMarketDepthList": [{"stockId": 177, "orderBookOrderPrice": 12404.0, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 177, "orderBookOrderPrice": 12403.0, "quantity": 15, "orderCount": 1, "isBuy": 1}, {"stockId": 177, "orderBookOrderPrice": 12401.0, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 177, "orderBookOrderPrice": 12388.0, "quantity": 10, "orderCount": 1, "isBuy": 1}, {"stockId": 177, "orderBookOrderPrice": 12387.0, "quantity": 10, "orderCount": 1, "isBuy": 1}], "sellMarketDepthList": [{"stockId": 177, "orderBookOrderPrice": 12630.0, "quantity": 15, "orderCount": 1, "isBuy": 2}, {"stockId": 177, "orderBookOrderPrice": 12818.0, "quantity": 25, "orderCount": 1, "isBuy": 2}, {"stockId": 177, "orderBookOrderPrice": 12819.0, "quantity": 10, "orderCount": 1, "isBuy": 2}, {"stockId": 177, "orderBookOrderPrice": 12820.0, "quantity": 10, "orderCount": 1, "isBuy": 2}, {"stockId": 177, "orderBookOrderPrice": 12825.0, "quantity": 10, "orderCount": 1, "isBuy": 2}]}, "totalSellQty": 350}
+2022-10-19 09:14:59.540686|NLICL|NULL
+2022-10-19 09:15:02.867280|HEI|NULL
+2022-10-19 09:15:05.151448|UIC|NULL
+2022-10-19 09:15:07.821164|NIL|NULL
+2022-10-19 09:15:10.068030|IGI|NULL
+2022-10-19 09:15:12.325486|NLIC|NULL
+2022-10-19 09:15:14.931673|LICN|NULL
+2022-10-19 09:15:18.307286|PICL|NULL
+2022-10-19 09:15:21.279506|SICL|NULL
+2022-10-19 09:15:23.546221|NFS|NULL
+2022-10-19 09:15:27.162379|BNL|NULL
+2022-10-19 09:15:29.447142|NLO|NULL
+2022-10-19 09:15:31.683861|GUFL|NULL
+2022-10-19 09:15:33.960494|CIT|NULL
+2022-10-19 09:15:36.229876|BNT|NULL
+2022-10-19 09:15:38.494618|UNL|NULL
+2022-10-19 09:15:40.748912|BFC|NULL
+2022-10-19 09:15:42.995731|GFCL|NULL
+2022-10-19 09:15:45.277727|HDL|NULL
+2022-10-19 09:15:47.521050|PFL|NULL
+2022-10-19 09:15:50.059161|NMB|NULL
+2022-10-19 09:15:52.338031|SIFC|NULL
+2022-10-19 09:15:54.592414|CFCL|NULL
+2022-10-19 09:15:56.840784|JFL|NULL
+2022-10-19 09:15:59.392842|PRVU|NULL
+2022-10-19 09:16:03.610373|SFCL|NULL
+2022-10-19 09:16:05.862373|GMFIL|NULL
+2022-10-19 09:16:08.124078|SWBBL|NULL
+2022-10-19 09:16:10.405090|ICFC|NULL
+2022-10-19 09:16:12.647264|EDBL|NULL
+2022-10-19 09:16:14.951261|NTC|NULL
+2022-10-19 09:16:17.223701|PROFL|NULL
+2022-10-19 09:16:19.474714|CZBIL|NULL
+2022-10-19 09:16:21.791392|PCBL|NULL
+2022-10-19 09:16:24.067747|LBBL|NULL
+2022-10-19 09:16:26.326770|SRBL|NULL
+2022-10-19 09:16:28.568321|AHPC|NULL
+2022-10-19 09:16:30.809982|MDB|NULL
+2022-10-19 09:16:33.098934|ALICL|NULL
+2022-10-19 09:16:35.355153|NLBBL|NULL
+2022-10-19 09:16:37.869601|ADBL|NULL
+2022-10-19 09:16:40.136259|MLBL|NULL
+2022-10-19 09:16:42.395354|GBBL|NULL
+2022-10-19 09:16:44.637580|JBBL|NULL
+2022-10-19 09:16:46.882914|KRBL|NULL
+2022-10-19 09:16:49.150706|CORBL|NULL
+2022-10-19 09:16:51.404457|KSBBL|NULL
+2022-10-19 09:16:53.655858|MPFL|NULL
+2022-10-19 09:16:55.912461|SADBL|NULL
+2022-10-19 09:16:58.177469|SHINE|NULL
+2022-10-19 09:17:00.430239|MNBBL|NULL
+2022-10-19 09:17:02.670643|FMDBL|NULL
+2022-10-19 09:17:04.932114|MFIL|NULL
+2022-10-19 09:17:07.185760|NBL|NULL
+2022-10-19 09:17:09.437201|SLBBL|NULL
+2022-10-19 09:17:11.693302|NLG|NULL
+2022-10-19 09:17:13.950542|SINDU|NULL
+2022-10-19 09:17:16.203204|GBLBS|NULL
+2022-10-19 09:17:18.444071|RLFL|NULL
+2022-10-19 09:17:20.708305|SHPC|NULL
+2022-10-19 09:17:22.961122|NSLB|NULL
+2022-10-19 09:17:25.201270|KMCDB|NULL
+2022-10-19 09:17:27.455122|MLBBL|NULL
+2022-10-19 09:17:29.740503|RIDI|NULL
+2022-10-19 09:17:31.980255|LLBS|NULL
+2022-10-19 09:17:34.223325|MMFDB|NULL
+2022-10-19 09:17:36.497955|BARUN|NULL
+2022-10-19 09:17:39.047295|VLBS|NULL
+2022-10-19 09:17:41.290354|CLBSL|NULL
+2022-10-19 09:17:43.555078|KLBSL|NULL
+2022-10-19 09:17:45.808505|JSLBB|NULL
+2022-10-19 09:17:48.056529|API|NULL
+2022-10-19 09:17:50.294913|NMBMF|NULL
+2022-10-19 09:17:52.564751|GILB|NULL
+2022-10-19 09:17:54.815591|SWMF|NULL
+2022-10-19 09:17:57.053014|GIMES1|NULL
+2022-10-19 09:17:59.294417|MERO|NULL
+2022-10-19 09:18:01.571867|HIDCL|NULL
+2022-10-19 09:18:03.821682|NGPL|NULL
+2022-10-19 09:18:06.059032|GRDBL|NULL
+2022-10-19 09:18:08.313388|RSDC|NULL
+2022-10-19 09:18:10.565415|KKHC|NULL
+2022-10-19 09:18:12.806461|NMBHF1|NULL
+2022-10-19 09:18:15.047973|DHPL|NULL
+2022-10-19 09:18:17.307522|NIBLPF|NULL
+2022-10-19 09:18:19.562531|AKPL|NULL
+2022-10-19 09:18:21.799772|FOWAD|NULL
+2022-10-19 09:18:24.054827|SPDL|NULL
+2022-10-19 09:18:26.306991|UMHL|NULL
+2022-10-19 09:18:28.554414|SMATA|NULL
+2022-10-19 09:18:30.806168|LEMF|NULL
+2022-10-19 09:18:33.166378|CHL|NULL
+2022-10-19 09:18:35.408648|HPPL|NULL
+2022-10-19 09:18:37.642051|MSLB|NULL
+2022-10-19 09:18:40.172721|NHDL|NULL
+2022-10-19 09:18:42.427493|SEF|NULL
+2022-10-19 09:18:44.676800|SMB|NULL
+2022-10-19 09:18:46.915176|SAEF|NULL
+2022-10-19 09:18:49.178681|USLB|NULL
+2022-10-19 09:18:51.425404|RADHI|NULL
+2022-10-19 09:18:53.668967|NICGF|NULL
+2022-10-19 09:18:55.937580|CMF1|NULL
+2022-10-19 09:18:58.959388|WNLB|NULL
+2022-10-19 09:19:01.204247|PMHPL|NULL
+2022-10-19 09:19:03.456395|KPCL|NULL
+2022-10-19 09:19:06.012303|AKJCL|NULL
+2022-10-19 09:19:08.313821|JOSHI|NULL
+2022-10-19 09:19:10.567122|ACLBSL|NULL
+2022-10-19 09:19:12.818118|UPPER|NULL
+2022-10-19 09:19:15.357318|SLBSL|NULL
+2022-10-19 09:19:17.902199|GHL|NULL
+2022-10-19 09:19:20.449087|ALBSL|NULL
+2022-10-19 09:19:22.971619|SHIVM|NULL
+2022-10-19 09:19:25.522542|UPCL|NULL
+2022-10-19 09:19:27.764144|MHNL|NULL
+2022-10-19 09:19:30.025117|PPCL|NULL
+2022-10-19 09:19:32.269363|GMFBS|NULL
+2022-10-19 09:19:34.823019|HURJA|NULL
+2022-10-19 09:19:37.349285|GLBSL|NULL
+2022-10-19 09:19:39.888839|SMFBS|NULL
+2022-10-19 09:19:42.139705|UNHPL|NULL
+2022-10-19 09:19:44.680838|ILBS|NULL
+2022-10-19 09:19:47.226643|RHPL|NULL
+2022-10-19 09:19:49.774850|SJCL|NULL
+2022-10-19 09:19:52.030176|SABSL|NULL
+2022-10-19 09:19:54.689739|SIGS2|NULL
+2022-10-19 09:19:57.245381|SAPDBL|NULL
+2022-10-19 09:19:59.492254|CMF2|NULL
+2022-10-19 09:20:02.031247|NICBF|NULL
+2022-10-19 09:20:04.566646|NMB50|NULL
+2022-10-19 09:20:07.196528|SFMF|NULL
+2022-10-19 09:20:09.721828|HDHPC|NULL
+2022-10-19 09:20:12.279940|NRIC|NULL
+2022-10-19 09:20:14.522966|NICLBSL|NULL
+2022-10-19 09:20:17.063442|SDLBSL|NULL
+2022-10-19 09:20:19.315346|NRN|NULL
+2022-10-19 09:20:21.570861|LUK|NULL
+2022-10-19 09:20:24.381652|LEC|NULL
+2022-10-19 09:20:26.693599|SSHL|NULL
+2022-10-19 09:20:28.959767|MEN|NULL
+2022-10-19 09:20:31.214611|UMRH|NULL
+2022-10-19 09:20:33.457553|CGH|NULL
+2022-10-19 09:20:35.711137|NIFRA|NULL
+2022-10-19 09:20:38.241791|SLCF|NULL
+2022-10-19 09:20:40.770608|GLH|NULL
+2022-10-19 09:20:43.027013|MLBSL|NULL
+2022-10-19 09:20:45.283567|KEF|NULL
+2022-10-19 09:20:47.521214|SHEL|NULL
+2022-10-19 09:20:49.763574|RURU|NULL
+2022-10-19 09:20:52.029995|SBCF|NULL
+2022-10-19 09:20:54.566364|CHDC|NULL
+2022-10-19 09:20:57.112279|PSF|NULL
+2022-10-19 09:20:59.381218|NIBSF2|NULL
+2022-10-19 09:21:01.655309|JBLB|NULL
+2022-10-19 09:21:03.895617|MKLB|NULL
+2022-10-19 09:21:06.428750|NICSF|NULL
+2022-10-19 09:21:08.975817|RMF1|NULL
+2022-10-19 09:21:11.220228|MKJC|NULL
+2022-10-19 09:21:13.490605|MLBS|NULL
+2022-10-19 09:21:16.028879|SAHAS|NULL
+2022-10-19 09:21:18.572023|TPC|NULL
+2022-10-19 09:21:20.833961|MMF1|NULL
+2022-10-19 09:21:23.086467|NBF3|NULL
+2022-10-19 09:21:25.328375|SPC|NULL
+2022-10-19 09:21:27.573707|NYADI|NULL
+2022-10-19 09:21:29.824078|MBJC|NULL
+2022-10-19 09:21:32.079461|BNHC|NULL
+2022-10-19 09:21:34.600841|ENL|NULL
+2022-10-19 09:21:36.861750|RULB|NULL
+2022-10-19 09:21:39.101974|JALPA|NULL
+2022-10-19 09:21:41.364716|NESDO|NULL
+2022-10-19 09:21:43.925085|GVL|NULL
+2022-10-19 09:21:46.472971|BHL|NULL
+2022-10-19 09:21:48.716358|ULBSL|NULL
+2022-10-19 09:21:50.978323|RFPL|NULL
+2022-10-19 09:21:53.235429|DORDI|NULL
+2022-10-19 09:21:55.479042|NICFC|NULL
+2022-10-19 09:21:57.724195|KDBY|NULL
+2022-10-19 09:21:59.993422|BHDC|NULL
+2022-10-19 09:22:02.234246|HHL|NULL
+2022-10-19 09:22:04.490241|UHEWA|NULL
+2022-10-19 09:22:06.737466|SGHC|NULL
+2022-10-19 09:22:08.988596|MHL|NULL
+2022-10-19 09:22:11.240905|USHEC|NULL
+2022-10-19 09:22:13.507371|GIBF1|NULL
+2022-10-19 09:22:15.769928|RHGCL|NULL
+2022-10-19 09:22:18.009619|AVYAN|NULL
+2022-10-19 09:22:20.255440|SPHL|NULL
+2022-10-19 09:22:22.519590|PPL|NULL
