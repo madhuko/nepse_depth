@@ -1,13 +1,13 @@
 name: run
+# on:
+#   push:
+#     branches:
+#       - master
+
 on:
   push:
     branches:
-      - master
-
-on:
-#   push:
-#     branches:
-#     - main
+    - main
   schedule:
     - cron: '15 05 * * 0-5'
     - cron: '45 05 * * 0-5'
