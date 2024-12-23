@@ -40,7 +40,7 @@ jobs:
           pip install git+https://github.com/basic-bgnr/NepseUnofficialApi
       - name: Execute Scraping Script
         run: |
-          python depth_v2.py
+          # python depth_v2.py
           python sscript.py
           
       - name: Commit and Push Files
