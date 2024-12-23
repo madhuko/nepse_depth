@@ -7,7 +7,7 @@ from datetime import datetime
 # %%
 nepse = AsyncNepse()
 nepse.setTLSVerification(False) #This is temporary, until nepse sorts its ssl certificate problem
-abc=await nepse.getCompanyList()
+# abc=nepse.getCompanyList()
 
 # %%
 
@@ -15,7 +15,7 @@ abc=await nepse.getCompanyList()
 
 async def fetch_company_details():
     # Fetch the list of companies
-    company_list = await nepse.getCompanyList()
+    company_list = nepse.getCompanyList()
 
     # Fetch details for each company concurrently
     tasks = [nepse.getCompanyDetails(company['symbol']) for company in company_list if company['status'] == 'A']
