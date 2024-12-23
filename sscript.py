@@ -15,7 +15,7 @@ nepse.setTLSVerification(False) #This is temporary, until nepse sorts its ssl ce
 
 async def fetch_company_details():
     # Fetch the list of companies
-    company_list = nepse.getCompanyList()
+    company_list = await nepse.getCompanyList()
 
     # Fetch details for each company concurrently
     tasks = [nepse.getCompanyDetails(company['symbol']) for company in company_list if company['status'] == 'A']
