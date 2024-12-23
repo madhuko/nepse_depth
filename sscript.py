@@ -28,9 +28,13 @@ async def fetch_company_details():
     return result
 
 # %%
-results = await fetch_company_details()
-now = datetime.now()
-filename=now.strftime("%Y-%m-%d_%H-%M-%S")
-pd.DataFrame.from_dict(results).to_excel("files/"+filename+".xlsx",index=False)
+async def main():
+    results = await fetch_company_details()
+    now = datetime.now()
+    filename = now.strftime("%Y-%m-%d_%H-%M-%S")
+    pd.DataFrame.from_dict(results).to_excel(f"files/{filename}.xlsx", index=False)
+
+# Execute the main async function
+asyncio.run(main())
 
 # %%
