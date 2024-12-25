@@ -17,7 +17,7 @@ async def fetch_market_depth():
     tasks = [
         nepse.getSymbolMarketDepth(company['symbol']) 
         for company in company_list 
-        if company['status'] == 'A'
+        if company['activeStatus'] == 'A'
     ]
 
     company_depths = await asyncio.gather(*tasks, return_exceptions=True)
@@ -54,3 +54,5 @@ async def main():
         json.dump(results, f, indent=4)
 # Execute the main function
 asyncio.run(main())
+
+# %%
