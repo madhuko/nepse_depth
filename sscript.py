@@ -11,7 +11,7 @@ nepse.setTLSVerification(False)  # Temporary, until NEPSE sorts its SSL certific
 
 async def fetch_market_depth():
     # Fetch the list of companies
-    company_list = await nepse.getCompanyList()
+    company_list = await nepse.getSecurityList()
 
     # Fetch market depth for each company concurrently
     tasks = [
