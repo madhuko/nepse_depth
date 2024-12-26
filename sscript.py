@@ -48,7 +48,7 @@ async def main():
     os.makedirs("files", exist_ok=True)
 
     # Generate filename with timestamp
-    now = datetime.now()
+    now = datetime.now()- pd.Timedelta(hours=5, minutes=45)
     filename = now.strftime("%Y-%m-%d_%H-%M-%S")
     with open(f"files/{filename}.json", "w") as f:
         json.dump(results, f, indent=4)
