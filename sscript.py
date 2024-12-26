@@ -12,33 +12,18 @@ nepse.setTLSVerification(False)  # Temporary, until NEPSE sorts its SSL certific
 async def fetch_market_depth():
     # Fetch the list of companies
     company_list = await nepse.getSecurityList()
+    active_symbols = [company['symbol'] for company in company_list if company['activeStatus'] == 'A']
+    tasks = [nepse.getSymbolMarketDepth(symbol) for symbol in active_symbols]
 
-    # Fetch market depth for each company concurrently
-    tasks = [
-        nepse.getSymbolMarketDepth(company['symbol']) 
-        for company in company_list 
-        if company['activeStatus'] == 'A'
-    ]
-
+    # Fetch market depths concurrently
     company_depths = await asyncio.gather(*tasks, return_exceptions=True)
 
-    # Combine company and market depth
-    result = []
-    for company, depth in zip(company_list, company_depths):
-        if isinstance(depth, Exception):
-            # Handle exceptions by adding the error message
-            result.append({**company, "error": str(depth)})
-        elif isinstance(depth, list):
-            # Add depth as a key-value pair
-            result.append({**company, "depth": depth})
-        elif isinstance(depth, dict):
-            # Merge dictionaries directly
-            result.append({**company, **depth})
-        else:
-            # Handle unexpected formats (optional)
-            result.append({**company, "depth": str(depth)})
-
-    return company_depths
+    # Create a dictionary to map symbols to their market depth or error codes
+    symbol_depth_mapping = {
+    symbol: (depth if not isinstance(depth, Exception) else f"error code {depth}")
+    for symbol, depth in zip(active_symbols, company_depths)
+    }
+    return symbol_depth_mapping
 
 # Define the main function to execute the workflow
 async def main():
