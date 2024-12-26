@@ -38,7 +38,7 @@ async def fetch_market_depth():
             # Handle unexpected formats (optional)
             result.append({**company, "depth": str(depth)})
 
-    return result
+    return company_depths
 
 # Define the main function to execute the workflow
 async def main():
