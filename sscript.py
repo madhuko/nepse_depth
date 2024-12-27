@@ -29,15 +29,42 @@ async def fetch_market_depth():
 async def main():
     results = await fetch_market_depth()
 
-    # Ensure the "files/" directory exists
-    os.makedirs("files", exist_ok=True)
-
-    # Generate filename with timestamp
+    # Calculate the current timestamp and adjust for Nepal's timezone
     now = datetime.now() - timedelta(hours=5, minutes=45)
-    filename = now.strftime("%Y-%m-%d_%H-%M-%S")
-    with open(f"files/{filename}.json", "w") as f:
-        json.dump(results, f, indent=4)
-# Execute the main function
+    timestamp = now.isoformat()
+
+    # Create directory structure: files/<year>/
+    year = now.strftime("%Y")
+    date = now.strftime("%Y-%m-%d")
+    directory = f"files/{year}"
+    os.makedirs(directory, exist_ok=True)
+
+    # Define the file path: files/<year>/yyyy-mm-dd.json
+    file_path = f"{directory}/{date}.json"
+
+    # Prepare the run data with timestamp
+    run_data = {"timestamp": timestamp, "data": results}
+
+    # If the file exists, append the new run data
+    if os.path.exists(file_path):
+        with open(file_path, 'r+', encoding='utf-8') as f:
+            try:
+                # Load existing data
+                daily_data = json.load(f)
+            except json.JSONDecodeError:
+                daily_data = []
+
+            # Append the new run data
+            daily_data.append(run_data)
+
+            # Write back to the file
+            f.seek(0)
+            json.dump(daily_data, f, indent=4)
+            f.truncate()
+    else:
+        # If the file doesn't exist, create it with the new run data
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump([run_data], f, indent=4)
 asyncio.run(main())
 
 # %%
