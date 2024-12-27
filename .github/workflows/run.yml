@@ -5,9 +5,7 @@ name: run
 #       - master
 
 on:
-  push:
-    branches:
-    - main
+  workflow_dispatch:
   schedule:
     - cron: '15 05 * * 0-5'
     - cron: '45 05 * * 0-5'
@@ -17,6 +15,7 @@ on:
     - cron: '45 07 * * 0-5'
     - cron: '15 08 * * 0-5'
     - cron: '45 08 * * 0-5'
+    - cron: '05 09 * * 0-5'
   
 jobs:
   # This workflow contains a single job called "build"
