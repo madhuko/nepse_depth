@@ -30,7 +30,7 @@ async def main():
     results = await fetch_market_depth()
 
     # Calculate the current timestamp and adjust for Nepal's timezone
-    now = datetime.now() - timedelta(hours=5, minutes=45)
+    now = datetime.now() + timedelta(hours=5, minutes=45)
     timestamp = now.isoformat()
 
     # Create directory structure: files/<year>/

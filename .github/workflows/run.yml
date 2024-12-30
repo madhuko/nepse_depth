@@ -7,15 +7,15 @@ name: run
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 05 * * 0-5'
-    - cron: '45 05 * * 0-5'
-    - cron: '15 06 * * 0-5'
-    - cron: '45 06 * * 0-5'
-    - cron: '15 07 * * 0-5'
-    - cron: '45 07 * * 0-5'
-    - cron: '15 08 * * 0-5'
+    - cron: '00 05 * * 0-5'
+    - cron: '30 05 * * 0-5'
+    - cron: '00 06 * * 0-5'
+    - cron: '30 06 * * 0-5'
+    - cron: '00 07 * * 0-5'
+    - cron: '30 07 * * 0-5'
+    - cron: '00 08 * * 0-5'
+    - cron: '30 08 * * 0-5'
     - cron: '45 08 * * 0-5'
-    - cron: '05 09 * * 0-5'
   
 jobs:
   # This workflow contains a single job called "build"
