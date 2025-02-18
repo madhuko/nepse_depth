@@ -1,0 +1,3529 @@
+[
+    {
+        "timestamp": "2025-02-18T11:00:25.731103",
+        "data": {
+            "USHL": {
+                "totalBuyQty": 15992,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 810.3,
+                            "quantity": 250,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 810.2,
+                            "quantity": 655,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 810.0,
+                            "quantity": 300,
+                            "orderCount": 4,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 806.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 805.5,
+                            "quantity": 400,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 811.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 814.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 817.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 819.0,
+                            "quantity": 230,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9192,
+                            "orderBookOrderPrice": 819.5,
+                            "quantity": 34,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 6778
+            },
+            "ACLBSL": "error code Expecting value: line 1 column 1 (char 0)",
+            "ACLBSLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "ANLB": "error code Expecting value: line 1 column 1 (char 0)",
+            "ANLBP": "error code Expecting value: line 1 column 1 (char 0)",
+            "ADBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "ADBLD83": "error code Expecting value: line 1 column 1 (char 0)",
+            "ADBLB": "error code Expecting value: line 1 column 1 (char 0)",
+            "ADBLB86": "error code Expecting value: line 1 column 1 (char 0)",
+            "ADBLB87": "error code Expecting value: line 1 column 1 (char 0)",
+            "AKJCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "API": "error code Expecting value: line 1 column 1 (char 0)",
+            "AKPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "AHPC": "error code Expecting value: line 1 column 1 (char 0)",
+            "ALBSL": "error code Expecting value: line 1 column 1 (char 0)",
+            "ALBSLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "AHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "ALICLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "ALICL": {
+                "totalBuyQty": 85106,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 770.9,
+                            "quantity": 20,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 768.3,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 768.2,
+                            "quantity": 1200,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 768.1,
+                            "quantity": 160,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 767.1,
+                            "quantity": 62,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 771.0,
+                            "quantity": 785,
+                            "orderCount": 4,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 772.8,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 772.9,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 773.0,
+                            "quantity": 419,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 385,
+                            "orderBookOrderPrice": 773.8,
+                            "quantity": 189,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 18687
+            },
+            "AVYAN": {
+                "totalBuyQty": 7613,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1256.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1255.0,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1250.0,
+                            "quantity": 744,
+                            "orderCount": 3,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1249.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1248.5,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1268.0,
+                            "quantity": 60,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1269.0,
+                            "quantity": 160,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1270.0,
+                            "quantity": 65,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1271.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8117,
+                            "orderBookOrderPrice": 1272.0,
+                            "quantity": 210,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 10883
+            },
+            "AVYANP": "error code Expecting value: line 1 column 1 (char 0)",
+            "BHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "BOKD86": "error code Expecting value: line 1 column 1 (char 0)",
+            "BOKD86KA": "error code Expecting value: line 1 column 1 (char 0)",
+            "BHPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "BARUN": "error code Expecting value: line 1 column 1 (char 0)",
+            "BFC": "error code Expecting value: line 1 column 1 (char 0)",
+            "BFCPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "BGWT": "error code Expecting value: line 1 column 1 (char 0)",
+            "BEDC": "error code Expecting value: line 1 column 1 (char 0)",
+            "BHDC": "error code Expecting value: line 1 column 1 (char 0)",
+            "BBC": {
+                "totalBuyQty": 11,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 5498.8,
+                            "quantity": 11,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 156,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "BNL": "error code Expecting value: line 1 column 1 (char 0)",
+            "BNT": "error code Expecting value: line 1 column 1 (char 0)",
+            "BNHC": "error code Expecting value: line 1 column 1 (char 0)",
+            "BPCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "CMF2": "error code Expecting value: line 1 column 1 (char 0)",
+            "CHDC": "error code Expecting value: line 1 column 1 (char 0)",
+            "CFCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "CFCLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "CCBD88": "error code Expecting value: line 1 column 1 (char 0)",
+            "CGH": "error code Expecting value: line 1 column 1 (char 0)",
+            "CBBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "CBBL": {
+                "totalBuyQty": 19462,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 886.0,
+                            "quantity": 397,
+                            "orderCount": 6,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 885.3,
+                            "quantity": 66,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 885.1,
+                            "quantity": 259,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 885.0,
+                            "quantity": 650,
+                            "orderCount": 8,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 884.1,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 887.0,
+                            "quantity": 30,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 888.0,
+                            "quantity": 115,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 889.0,
+                            "quantity": 516,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 889.9,
+                            "quantity": 20,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 164,
+                            "orderBookOrderPrice": 890.0,
+                            "quantity": 1949,
+                            "orderCount": 10,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 16411
+            },
+            "CHL": {
+                "totalBuyQty": 37811,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 526.0,
+                            "quantity": 651,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 524.0,
+                            "quantity": 1754,
+                            "orderCount": 3,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 523.1,
+                            "quantity": 58,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 523.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 522.7,
+                            "quantity": 200,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 528.9,
+                            "quantity": 760,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 529.0,
+                            "quantity": 2250,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 529.8,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 529.9,
+                            "quantity": 150,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2766,
+                            "orderBookOrderPrice": 530.0,
+                            "quantity": 534,
+                            "orderCount": 5,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 48021
+            },
+            "CHCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "CKHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "CIT": "error code Expecting value: line 1 column 1 (char 0)",
+            "CITPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "CLI": "error code Expecting value: line 1 column 1 (char 0)",
+            "C30MF": "error code Expecting value: line 1 column 1 (char 0)",
+            "CIZBD90": "error code Expecting value: line 1 column 1 (char 0)",
+            "CZBILP": "error code Expecting value: line 1 column 1 (char 0)",
+            "CZBIL": {
+                "totalBuyQty": 200,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 211.3,
+                            "quantity": 200,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 348,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "CIZBD86": "error code Expecting value: line 1 column 1 (char 0)",
+            "CMF1": "error code Expecting value: line 1 column 1 (char 0)",
+            "CITY": "error code Expecting value: line 1 column 1 (char 0)",
+            "PSDBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "CBLD88": "error code Expecting value: line 1 column 1 (char 0)",
+            "CORBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "CORBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "CYCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "CYCLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "DDBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "DDBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "DLBS": "error code Expecting value: line 1 column 1 (char 0)",
+            "DHPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "DOLTI": "error code Expecting value: line 1 column 1 (char 0)",
+            "DORDI": "error code Expecting value: line 1 column 1 (char 0)",
+            "EHPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "ENL": "error code Expecting value: line 1 column 1 (char 0)",
+            "EBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "EBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "EBLD85": "error code Expecting value: line 1 column 1 (char 0)",
+            "EBLEB89": "error code Expecting value: line 1 column 1 (char 0)",
+            "EBLD86": "error code Expecting value: line 1 column 1 (char 0)",
+            "EDBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "EDBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "FMDBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "FMDBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "FOWAD": "error code Expecting value: line 1 column 1 (char 0)",
+            "FOWADP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GMFBS": "error code Expecting value: line 1 column 1 (char 0)",
+            "GMFBSP": "error code Expecting value: line 1 column 1 (char 0)",
+            "GBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "GBBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "GSY": "error code Expecting value: line 1 column 1 (char 0)",
+            "GBBD85": "error code Expecting value: line 1 column 1 (char 0)",
+            "GHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "GCIL": "error code Expecting value: line 1 column 1 (char 0)",
+            "GIBF1": "error code Expecting value: line 1 column 1 (char 0)",
+            "GBIME": "error code Expecting value: line 1 column 1 (char 0)",
+            "GBIMEP": "error code Expecting value: line 1 column 1 (char 0)",
+            "GBILD86/87": "error code Expecting value: line 1 column 1 (char 0)",
+            "GBILD84/85": "error code Expecting value: line 1 column 1 (char 0)",
+            "GILBPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "GILB": "error code Expecting value: line 1 column 1 (char 0)",
+            "GFCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "GFCLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "GWFD83": "error code Expecting value: line 1 column 1 (char 0)",
+            "GBLBS": "error code Expecting value: line 1 column 1 (char 0)",
+            "PDBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "GBLBSP": "error code Expecting value: line 1 column 1 (char 0)",
+            "GRDBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "GRDBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "GVL": "error code Expecting value: line 1 column 1 (char 0)",
+            "GLH": {
+                "totalBuyQty": 23562,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 261.0,
+                            "quantity": 650,
+                            "orderCount": 4,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 260.8,
+                            "quantity": 1560,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 260.7,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 260.5,
+                            "quantity": 200,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 260.1,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 262.0,
+                            "quantity": 175,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 262.5,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 262.8,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 263.0,
+                            "quantity": 2300,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2924,
+                            "orderBookOrderPrice": 263.3,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 69734
+            },
+            "GMLI": "error code Expecting value: line 1 column 1 (char 0)",
+            "GMLIP": "error code Expecting value: line 1 column 1 (char 0)",
+            "GMFIL": "error code Expecting value: line 1 column 1 (char 0)",
+            "GMFILP": "error code Expecting value: line 1 column 1 (char 0)",
+            "GLBSL": "error code Expecting value: line 1 column 1 (char 0)",
+            "GUFL": "error code Expecting value: line 1 column 1 (char 0)",
+            "GUFLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "HATHY": "error code Expecting value: line 1 column 1 (char 0)",
+            "HDHPC": "error code Expecting value: line 1 column 1 (char 0)",
+            "HURJA": "error code Expecting value: line 1 column 1 (char 0)",
+            "HBLD86": "error code Expecting value: line 1 column 1 (char 0)",
+            "H8020": "error code Expecting value: line 1 column 1 (char 0)",
+            "HBLD83": "error code Expecting value: line 1 column 1 (char 0)",
+            "HBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "HBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "HDL": "error code Expecting value: line 1 column 1 (char 0)",
+            "HEI": "error code Expecting value: line 1 column 1 (char 0)",
+            "HEIP": "error code Expecting value: line 1 column 1 (char 0)",
+            "HHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "HLBSL": "error code Expecting value: line 1 column 1 (char 0)",
+            "HLBSLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "HLI": "error code Expecting value: line 1 column 1 (char 0)",
+            "HLIPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "HPPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "HRL": "error code Expecting value: line 1 column 1 (char 0)",
+            "HIDCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "HIDCLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "ILI": "error code Expecting value: line 1 column 1 (char 0)",
+            "ILIP": "error code Expecting value: line 1 column 1 (char 0)",
+            "ICFC": "error code Expecting value: line 1 column 1 (char 0)",
+            "ICFCPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "ICFCD83": "error code Expecting value: line 1 column 1 (char 0)",
+            "IGIPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "IGI": "error code Expecting value: line 1 column 1 (char 0)",
+            "ILBS": {
+                "totalBuyQty": 4622,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1037.0,
+                            "quantity": 150,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1036.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1035.0,
+                            "quantity": 378,
+                            "orderCount": 4,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1034.8,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1032.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1044.0,
+                            "quantity": 15,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1050.0,
+                            "quantity": 293,
+                            "orderCount": 4,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1052.9,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1053.0,
+                            "quantity": 62,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2832,
+                            "orderBookOrderPrice": 1054.9,
+                            "quantity": 106,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 8904
+            },
+            "ILBSP": "error code Expecting value: line 1 column 1 (char 0)",
+            "IHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "JFL": "error code Expecting value: line 1 column 1 (char 0)",
+            "JFLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "JSLBB": "error code Expecting value: line 1 column 1 (char 0)",
+            "JSLBBP": "error code Expecting value: line 1 column 1 (char 0)",
+            "JBLBP": "error code Expecting value: line 1 column 1 (char 0)",
+            "JBLB": "error code Expecting value: line 1 column 1 (char 0)",
+            "JOSHI": "error code Expecting value: line 1 column 1 (char 0)",
+            "JBBD87": "error code Expecting value: line 1 column 1 (char 0)",
+            "JBBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "JBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "KMCDB": "error code Expecting value: line 1 column 1 (char 0)",
+            "KMCDBP": "error code Expecting value: line 1 column 1 (char 0)",
+            "KPCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "KDL": "error code Expecting value: line 1 column 1 (char 0)",
+            "KDLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "KSBBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "KSBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "KSBBLD87": "error code Expecting value: line 1 column 1 (char 0)",
+            "KKHC": "error code Expecting value: line 1 column 1 (char 0)",
+            "KBLD86": "error code Expecting value: line 1 column 1 (char 0)",
+            "KBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "KBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "KBLD89": "error code Expecting value: line 1 column 1 (char 0)",
+            "KEF": "error code Expecting value: line 1 column 1 (char 0)",
+            "KDBY": "error code Expecting value: line 1 column 1 (char 0)",
+            "KSY": "error code Expecting value: line 1 column 1 (char 0)",
+            "KBLD90": "error code Expecting value: line 1 column 1 (char 0)",
+            "KBSH": "error code Expecting value: line 1 column 1 (char 0)",
+            "LUK": "error code Expecting value: line 1 column 1 (char 0)",
+            "LLBSPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "LLBS": "error code Expecting value: line 1 column 1 (char 0)",
+            "LBLD88": "error code Expecting value: line 1 column 1 (char 0)",
+            "LVF2": "error code Expecting value: line 1 column 1 (char 0)",
+            "LSL": "error code Expecting value: line 1 column 1 (char 0)",
+            "LSLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SFMF": "error code Expecting value: line 1 column 1 (char 0)",
+            "LBLD86": "error code Expecting value: line 1 column 1 (char 0)",
+            "LEC": "error code Expecting value: line 1 column 1 (char 0)",
+            "LICN": "error code Expecting value: line 1 column 1 (char 0)",
+            "LICNPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "LBBLD89": "error code Expecting value: line 1 column 1 (char 0)",
+            "LBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "LBBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "MBLD2085": "error code Expecting value: line 1 column 1 (char 0)",
+            "MBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "MBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MBLD87": "error code Expecting value: line 1 column 1 (char 0)",
+            "MBJC": "error code Expecting value: line 1 column 1 (char 0)",
+            "MLBLD89": "error code Expecting value: line 1 column 1 (char 0)",
+            "MLBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MLBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "MDBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "MLBSL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MLBSLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MSLB": "error code Expecting value: line 1 column 1 (char 0)",
+            "MSLBP": "error code Expecting value: line 1 column 1 (char 0)",
+            "MKHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MKJC": "error code Expecting value: line 1 column 1 (char 0)",
+            "MAKAR": "error code Expecting value: line 1 column 1 (char 0)",
+            "MEHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MANDU": "error code Expecting value: line 1 column 1 (char 0)",
+            "MFILPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "MFIL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MFLD85": "error code Expecting value: line 1 column 1 (char 0)",
+            "MLBS": "error code Expecting value: line 1 column 1 (char 0)",
+            "MLBSP": "error code Expecting value: line 1 column 1 (char 0)",
+            "MMKJL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MATRIP": "error code Expecting value: line 1 column 1 (char 0)",
+            "MATRI": "error code Expecting value: line 1 column 1 (char 0)",
+            "MKHC": "error code Expecting value: line 1 column 1 (char 0)",
+            "MMF1": "error code Expecting value: line 1 column 1 (char 0)",
+            "MCHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MERO": "error code Expecting value: line 1 column 1 (char 0)",
+            "MEROPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "MSHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MDB": "error code Expecting value: line 1 column 1 (char 0)",
+            "MDBPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "MLBBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "MLBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MEL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MHCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MEN": "error code Expecting value: line 1 column 1 (char 0)",
+            "MHNL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MND84/85": "error code Expecting value: line 1 column 1 (char 0)",
+            "MNMF1": "error code Expecting value: line 1 column 1 (char 0)",
+            "MNBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MNBBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "MKCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MPFL": "error code Expecting value: line 1 column 1 (char 0)",
+            "MPFLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NABIL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NABILP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NBF2": "error code Expecting value: line 1 column 1 (char 0)",
+            "NBLD82": "error code Expecting value: line 1 column 1 (char 0)",
+            "NBF3": "error code Expecting value: line 1 column 1 (char 0)",
+            "NBLD85": "error code Expecting value: line 1 column 1 (char 0)",
+            "NABILD87": "error code Expecting value: line 1 column 1 (char 0)",
+            "NADEP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NADEPP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NABBCP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NABBC": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMFBS": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMFBSP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NHPC": "error code Expecting value: line 1 column 1 (char 0)",
+            "NLICLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NLICL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NILPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NBBD2085": "error code Expecting value: line 1 column 1 (char 0)",
+            "NBLD87": "error code Expecting value: line 1 column 1 (char 0)",
+            "NBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NCCD86": "error code Expecting value: line 1 column 1 (char 0)",
+            "NTC": "error code Expecting value: line 1 column 1 (char 0)",
+            "NFSPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NFS": "error code Expecting value: line 1 column 1 (char 0)",
+            "NHDL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIFRA": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIFRAP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIFRAUR85/86": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIMBD90": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIBLSTF": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIBD84": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIBSF2": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIBD2082": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIMB": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIMBPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NLIC": "error code Expecting value: line 1 column 1 (char 0)",
+            "NLICP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NLO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NRIC": "error code Expecting value: line 1 column 1 (char 0)",
+            "NRICP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NRM": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBI": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBIPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBIBD86": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBID89": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBID83": "error code Expecting value: line 1 column 1 (char 0)",
+            "NSMPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NWCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMLBBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMLBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NESDO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NESDOP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NGPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NIBLGF": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICD88": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICFC": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICGF2": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICA": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICAP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICD83/84": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICAD8283": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICAD85/86": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICGF": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICBF": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICSF": {
+                "totalBuyQty": 10000,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 9.18,
+                            "quantity": 10000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4967,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "NICLBSL": "error code Expecting value: line 1 column 1 (char 0)",
+            "NICLBSLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NUBL": {
+                "totalBuyQty": 16074,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 704.0,
+                            "quantity": 18,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 703.8,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 703.7,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 703.5,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 703.1,
+                            "quantity": 15,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 707.0,
+                            "quantity": 47,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 709.0,
+                            "quantity": 66,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 710.0,
+                            "quantity": 920,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 710.1,
+                            "quantity": 400,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 163,
+                            "orderBookOrderPrice": 712.0,
+                            "quantity": 966,
+                            "orderCount": 4,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 24370
+            },
+            "NUBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NLGPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NLG": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMBMF": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMBMFP": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMBPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMB": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMBD2085": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMBD87/88": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMBEB92/93": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMBUR93/94": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMBD89/90": "error code Expecting value: line 1 column 1 (char 0)",
+            "NSIF2": "error code Expecting value: line 1 column 1 (char 0)",
+            "NMB50": "error code Expecting value: line 1 column 1 (char 0)",
+            "NRN": "error code Expecting value: line 1 column 1 (char 0)",
+            "NYADI": "error code Expecting value: line 1 column 1 (char 0)",
+            "OHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "PMHPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "PPCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "PHCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "PPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "PFL": "error code Expecting value: line 1 column 1 (char 0)",
+            "PFLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "PRVU": "error code Expecting value: line 1 column 1 (char 0)",
+            "PRFLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "PRVUPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "PBLD86": "error code Expecting value: line 1 column 1 (char 0)",
+            "PBLD84": "error code Expecting value: line 1 column 1 (char 0)",
+            "PSF": {
+                "totalBuyQty": 272375,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 10.04,
+                            "quantity": 43600,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 10.03,
+                            "quantity": 49700,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 10.01,
+                            "quantity": 98400,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 9.95,
+                            "quantity": 12300,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 9.91,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 10.19,
+                            "quantity": 5000,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 10.2,
+                            "quantity": 4500,
+                            "orderCount": 6,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 10.21,
+                            "quantity": 2500,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 10.22,
+                            "quantity": 11300,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 10.25,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 24300
+            },
+            "PBLD87": "error code Expecting value: line 1 column 1 (char 0)",
+            "PRSF": "error code Expecting value: line 1 column 1 (char 0)",
+            "PRINPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "PRIN": "error code Expecting value: line 1 column 1 (char 0)",
+            "PMLI": "error code Expecting value: line 1 column 1 (char 0)",
+            "PMLIP": "error code Expecting value: line 1 column 1 (char 0)",
+            "PCBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "PCBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "PBD84": "error code Expecting value: line 1 column 1 (char 0)",
+            "PBD85": "error code Expecting value: line 1 column 1 (char 0)",
+            "PBD88": "error code Expecting value: line 1 column 1 (char 0)",
+            "PROFL": "error code Expecting value: line 1 column 1 (char 0)",
+            "PROFLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RADHI": "error code Expecting value: line 1 column 1 (char 0)",
+            "RHGCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "RBBD83": "error code Expecting value: line 1 column 1 (char 0)",
+            "RBCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "RBCLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "RHPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "RAWA": "error code Expecting value: line 1 column 1 (char 0)",
+            "RMF1": "error code Expecting value: line 1 column 1 (char 0)",
+            "RMF2": "error code Expecting value: line 1 column 1 (char 0)",
+            "RNLI": "error code Expecting value: line 1 column 1 (char 0)",
+            "RLFLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RLFL": "error code Expecting value: line 1 column 1 (char 0)",
+            "RIDI": "error code Expecting value: line 1 column 1 (char 0)",
+            "RFPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "RSDC": "error code Expecting value: line 1 column 1 (char 0)",
+            "RSDCP": "error code Expecting value: line 1 column 1 (char 0)",
+            "RURU": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMJC": "error code Expecting value: line 1 column 1 (char 0)",
+            "SALICO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SALICOPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SAHAS": "error code Expecting value: line 1 column 1 (char 0)",
+            "STC": "error code Expecting value: line 1 column 1 (char 0)",
+            "SAMAJ": "error code Expecting value: line 1 column 1 (char 0)",
+            "SAMAJP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMATA": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMATAP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SPC": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMPDA": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMPDAP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SFCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "SFCLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SLBSL": "error code Expecting value: line 1 column 1 (char 0)",
+            "SLBSLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SKBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "SKBBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SNMAPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SANIMA": "error code Expecting value: line 1 column 1 (char 0)",
+            "SAND2085": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBD87": {
+                "totalBuyQty": 325,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 1032.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 1030.1,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 1030.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 1029.0,
+                            "quantity": 25,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 1050.0,
+                            "quantity": 5,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 1070.0,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2922,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 55
+            },
+            "SLCF": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBD89": "error code Expecting value: line 1 column 1 (char 0)",
+            "SGIC": {
+                "totalBuyQty": 44170,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 699.0,
+                            "quantity": 15,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 698.2,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 698.1,
+                            "quantity": 1100,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 698.0,
+                            "quantity": 1286,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 697.9,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 699.9,
+                            "quantity": 1400,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 701.0,
+                            "quantity": 1168,
+                            "orderCount": 4,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 702.0,
+                            "quantity": 510,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 703.0,
+                            "quantity": 60,
+                            "orderCount": 4,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2908,
+                            "orderBookOrderPrice": 704.0,
+                            "quantity": 350,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 29503
+            },
+            "SGICP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SAGF": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "SHPC": "error code Expecting value: line 1 column 1 (char 0)",
+            "TAMOR": "error code Expecting value: line 1 column 1 (char 0)",
+            "SRLI": "error code Expecting value: line 1 column 1 (char 0)",
+            "SRLIP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SJCL": {
+                "totalBuyQty": 41817,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 353.0,
+                            "quantity": 80,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 352.2,
+                            "quantity": 30,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 352.1,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 352.0,
+                            "quantity": 1650,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 351.8,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 353.7,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 353.9,
+                            "quantity": 20,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 354.0,
+                            "quantity": 68,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 354.5,
+                            "quantity": 290,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2842,
+                            "orderBookOrderPrice": 354.6,
+                            "quantity": 677,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 14688
+            },
+            "SAPDBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "SAPDBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SARBTM": "error code Expecting value: line 1 column 1 (char 0)",
+            "SPHL": {
+                "totalBuyQty": 7752,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 860.2,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 860.1,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 860.0,
+                            "quantity": 106,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 858.4,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 858.3,
+                            "quantity": 173,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 864.0,
+                            "quantity": 160,
+                            "orderCount": 4,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 864.9,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 865.0,
+                            "quantity": 1010,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 870.0,
+                            "quantity": 1030,
+                            "orderCount": 5,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8121,
+                            "orderBookOrderPrice": 872.0,
+                            "quantity": 84,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 6079
+            },
+            "SADBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SADBL": {
+                "totalBuyQty": 43373,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 410.3,
+                            "quantity": 2490,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 410.2,
+                            "quantity": 3000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 410.1,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 410.0,
+                            "quantity": 5531,
+                            "orderCount": 4,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 409.0,
+                            "quantity": 800,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 410.9,
+                            "quantity": 40,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 411.0,
+                            "quantity": 242,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 412.0,
+                            "quantity": 2215,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 412.5,
+                            "quantity": 2000,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 472,
+                            "orderBookOrderPrice": 412.7,
+                            "quantity": 20,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 30780
+            },
+            "SDBD87": {
+                "totalBuyQty": 540,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 1055.0,
+                            "quantity": 225,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 1054.1,
+                            "quantity": 300,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 1030.5,
+                            "quantity": 15,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 1079.9,
+                            "quantity": 25,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 1080.0,
+                            "quantity": 150,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 1081.0,
+                            "quantity": 40,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 6985,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 215
+            },
+            "SICL": {
+                "totalBuyQty": 21082,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 770.0,
+                            "quantity": 28,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 765.1,
+                            "quantity": 40,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 765.0,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 764.2,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 764.1,
+                            "quantity": 30,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 772.0,
+                            "quantity": 274,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 774.7,
+                            "quantity": 15,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 775.0,
+                            "quantity": 217,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 775.8,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 192,
+                            "orderBookOrderPrice": 777.0,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 1071
+            },
+            "SICLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SHINEP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SHINE": {
+                "totalBuyQty": 35564,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 436.4,
+                            "quantity": 199,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 435.1,
+                            "quantity": 400,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 435.0,
+                            "quantity": 2086,
+                            "orderCount": 3,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 434.2,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 434.1,
+                            "quantity": 964,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 436.8,
+                            "quantity": 175,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 437.0,
+                            "quantity": 3000,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 437.9,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 438.0,
+                            "quantity": 532,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 473,
+                            "orderBookOrderPrice": 439.0,
+                            "quantity": 550,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 24045
+            },
+            "SSHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "SHIVM": "error code Expecting value: line 1 column 1 (char 0)",
+            "SIFC": "error code Expecting value: line 1 column 1 (char 0)",
+            "SIFCPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SHLB": {
+                "totalBuyQty": 2688,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2790.3,
+                            "quantity": 253,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2790.0,
+                            "quantity": 120,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2788.2,
+                            "quantity": 20,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2780.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2766.1,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2818.0,
+                            "quantity": 80,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2819.0,
+                            "quantity": 30,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2820.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2830.0,
+                            "quantity": 70,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8132,
+                            "orderBookOrderPrice": 2832.0,
+                            "quantity": 20,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 8429
+            },
+            "SHLBP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBLD89": "error code Expecting value: line 1 column 1 (char 0)",
+            "SIGS3": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 145,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "SBLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBLD83": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBLD84": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBLD2082": "error code Expecting value: line 1 column 1 (char 0)",
+            "SIGS2": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "SEF": "error code Expecting value: line 1 column 1 (char 0)",
+            "SPIL": {
+                "totalBuyQty": 30417,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 832.0,
+                            "quantity": 210,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 831.1,
+                            "quantity": 60,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 831.0,
+                            "quantity": 3000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 830.1,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 830.0,
+                            "quantity": 2350,
+                            "orderCount": 3,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 837.0,
+                            "quantity": 561,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 837.5,
+                            "quantity": 200,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 837.9,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 838.0,
+                            "quantity": 343,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 182,
+                            "orderBookOrderPrice": 840.0,
+                            "quantity": 875,
+                            "orderCount": 5,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 6715
+            },
+            "SPILPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SIKLES": "error code Expecting value: line 1 column 1 (char 0)",
+            "SINDU": {
+                "totalBuyQty": 103031,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1084.0,
+                            "quantity": 39,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1083.0,
+                            "quantity": 30,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1082.2,
+                            "quantity": 25,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1082.1,
+                            "quantity": 130,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1082.0,
+                            "quantity": 700,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1093.0,
+                            "quantity": 200,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1093.99,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1094.0,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1094.9,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 561,
+                            "orderBookOrderPrice": 1095.0,
+                            "quantity": 458,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 40390
+            },
+            "SINDUP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SHEL": {
+                "totalBuyQty": 76279,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 251.3,
+                            "quantity": 240,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 251.2,
+                            "quantity": 1734,
+                            "orderCount": 4,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 251.1,
+                            "quantity": 7100,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 251.0,
+                            "quantity": 9165,
+                            "orderCount": 19,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 250.6,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 252.0,
+                            "quantity": 1180,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 252.5,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 252.8,
+                            "quantity": 760,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 252.9,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2934,
+                            "orderBookOrderPrice": 253.0,
+                            "quantity": 1050,
+                            "orderCount": 4,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 97196
+            },
+            "SHL": {
+                "totalBuyQty": 150827,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 510.3,
+                            "quantity": 250,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 510.2,
+                            "quantity": 270,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 510.0,
+                            "quantity": 600,
+                            "orderCount": 4,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 509.2,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 509.0,
+                            "quantity": 1400,
+                            "orderCount": 3,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 511.0,
+                            "quantity": 386,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 512.0,
+                            "quantity": 250,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 512.4,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 512.5,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 147,
+                            "orderBookOrderPrice": 512.6,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 42671
+            },
+            "SONA": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 479.4,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 480.0,
+                            "quantity": 120,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 480.3,
+                            "quantity": 205,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9216,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 335
+            },
+            "SCB": "error code Expecting value: line 1 column 1 (char 0)",
+            "SCBPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SCBD": "error code Expecting value: line 1 column 1 (char 0)",
+            "SNLI": "error code Expecting value: line 1 column 1 (char 0)",
+            "SRBLD83": "error code Expecting value: line 1 column 1 (char 0)",
+            "SBCF": "error code Expecting value: line 1 column 1 (char 0)",
+            "SFEF": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMH": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMB": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMBPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SJLICP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SJLIC": "error code Expecting value: line 1 column 1 (char 0)",
+            "SWMF": "error code Expecting value: line 1 column 1 (char 0)",
+            "SWMFPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "SWBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "SWBBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMFBS": "error code Expecting value: line 1 column 1 (char 0)",
+            "SMFBSP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SLBBL": "error code Expecting value: line 1 column 1 (char 0)",
+            "SLBBLP": "error code Expecting value: line 1 column 1 (char 0)",
+            "SGHC": {
+                "totalBuyQty": 11320,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 613.1,
+                            "quantity": 110,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 613.0,
+                            "quantity": 110,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 612.5,
+                            "quantity": 750,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 612.0,
+                            "quantity": 200,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 611.0,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 614.0,
+                            "quantity": 600,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 615.0,
+                            "quantity": 4000,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 615.5,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 616.0,
+                            "quantity": 110,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8100,
+                            "orderBookOrderPrice": 619.0,
+                            "quantity": 30,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 34888
+            },
+            "SPDL": "error code Expecting value: line 1 column 1 (char 0)",
+            "TRH": "error code Expecting value: line 1 column 1 (char 0)",
+            "TPC": "error code Expecting value: line 1 column 1 (char 0)",
+            "TSHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "TVCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "UNL": "error code Expecting value: line 1 column 1 (char 0)",
+            "UNHPL": "error code Expecting value: line 1 column 1 (char 0)",
+            "UNLBP": "error code Expecting value: line 1 column 1 (char 0)",
+            "UNLB": "error code Expecting value: line 1 column 1 (char 0)",
+            "UAILPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "UAIL": "error code Expecting value: line 1 column 1 (char 0)",
+            "UMRH": "error code Expecting value: line 1 column 1 (char 0)",
+            "UMHL": "error code Expecting value: line 1 column 1 (char 0)",
+            "UPCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "USLB": "error code Expecting value: line 1 column 1 (char 0)",
+            "USLBP": "error code Expecting value: line 1 column 1 (char 0)",
+            "ULBSL": "error code Expecting value: line 1 column 1 (char 0)",
+            "ULBSLPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "UHEWA": "error code Expecting value: line 1 column 1 (char 0)",
+            "ULHC": "error code Expecting value: line 1 column 1 (char 0)",
+            "USHEC": "error code Expecting value: line 1 column 1 (char 0)",
+            "UPPER": "error code Expecting value: line 1 column 1 (char 0)",
+            "VLBS": "error code Expecting value: line 1 column 1 (char 0)",
+            "VLBSPO": "error code Expecting value: line 1 column 1 (char 0)",
+            "VLUCL": "error code Expecting value: line 1 column 1 (char 0)",
+            "WNLB": "error code Expecting value: line 1 column 1 (char 0)",
+            "WNLBP": "error code Expecting value: line 1 column 1 (char 0)"
+        }
+    }
+]
