@@ -19,10 +19,15 @@ async def fetch_market_depth():
     company_depths = await asyncio.gather(*tasks, return_exceptions=True)
 
     # Create a dictionary to map symbols to their market depth or error codes
-    symbol_depth_mapping = {
-    symbol: (depth if not isinstance(depth, Exception) else f"error code {depth}")
-    for symbol, depth in zip(active_symbols, company_depths)
-    }
+
+    # symbol_depth_mapping = {
+    # symbol: (depth if not isinstance(depth, Exception) else f"error code {depth}")
+    # for symbol, depth in zip(active_symbols, company_depths)
+    # }
+    symbol_depth_mapping = {}  # Initialize an empty dictionary
+    for symbol, depth in zip(active_symbols, company_depths):
+        if not isinstance(depth, Exception):  # Check if depth is not an Exception
+            symbol_depth_mapping[symbol] = depth  # Add to dictionary
     return symbol_depth_mapping
 
 # Define the main function to execute the workflow
