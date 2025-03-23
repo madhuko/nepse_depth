@@ -1,0 +1,3691 @@
+[
+    {
+        "timestamp": "2025-03-23T11:00:32.786395",
+        "data": {
+            "USHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ACLBSLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ADBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ALBSL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "BNL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CHDC": {
+                "totalBuyQty": 200,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 2234.39,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 2225.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 3946,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "CFCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CBBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CKHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "C30MF": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CIZBD90": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CZBILP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CITY": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CBLD88": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PSDBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CORBL": {
+                "totalBuyQty": 10,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 1862.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 1907.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 1907.4,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 1908.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 1908.9,
+                            "quantity": 20,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 450,
+                            "orderBookOrderPrice": 1920.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 70
+            },
+            "DLBS": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "DOLTI": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "EHPL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "FMDBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 490,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "GHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBIME": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBIMEP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBILD84/85": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GWFD83": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GMLI": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GMFIL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HDHPC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HURJA": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HBLD86": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "H8020": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HBLD83": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HDL": {
+                "totalBuyQty": 1395,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 1200.5,
+                            "quantity": 140,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 1200.0,
+                            "quantity": 140,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 1195.0,
+                            "quantity": 60,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 1190.0,
+                            "quantity": 350,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 1188.8,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 1231.0,
+                            "quantity": 31,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 1233.3,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 1235.0,
+                            "quantity": 563,
+                            "orderCount": 3,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 1235.5,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 235,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 704
+            },
+            "HEI": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HLIPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HPPL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ILIP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ICFCD83": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "JFL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "JSLBBP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "JBLB": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "JBBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KDLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KBLD86": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KBLD89": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KBLD90": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KBSH": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "LUK": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2902,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "LSL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "LSLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "LBBLD89": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "LBBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "LBBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MBLD2085": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MBLD87": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MBJC": {
+                "totalBuyQty": 500,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 327.0,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8031,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "MLBLD89": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MLBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MLBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MDBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MLBSL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MLBSLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MSLB": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MSLBP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MKJC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MAKAR": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MEHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MANDU": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MFILPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MFIL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 516,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "MLBS": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MMKJL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MKHC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MCHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MSHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MDB": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MLBBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MHCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MEN": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MNBBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MKCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MPFL": {
+                "totalBuyQty": 500,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 630.0,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 471,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "MPFLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NBLD85": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NADEP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NABBC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NLICLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NBBD2085": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NIFRAP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NICLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NIBLSTF": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NIBD2082": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NIMB": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NLIC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NLICP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NRIC": {
+                "totalBuyQty": 12450,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1278.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1277.9,
+                            "quantity": 1500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1277.0,
+                            "quantity": 390,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1270.0,
+                            "quantity": 110,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1262.0,
+                            "quantity": 30,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1280.1,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1299.0,
+                            "quantity": 550,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1300.0,
+                            "quantity": 581,
+                            "orderCount": 5,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1300.1,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2881,
+                            "orderBookOrderPrice": 1302.0,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 5396
+            },
+            "NRICP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SBIBD86": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SBID89": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SBID83": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NWCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NMLBBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NESDOP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NIBLGF": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NICD88": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NICA": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NICAP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NICD83/84": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NICAD8283": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NICLBSLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NLG": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NMBMF": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NMBPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NMB": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NMBD2085": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NMBUR93/94": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NMBD87/88": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NMBEB92/93": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NSIF2": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8125,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "NYADI": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PMHPL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PFLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PRVU": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PRFLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PRVUPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PBLD87": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PSF": {
+                "totalBuyQty": 5000,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 9.89,
+                            "quantity": 5000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 4947,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "PCBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PCBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RHGCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RBCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RHPL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RAWA": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RMF2": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RLFLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RLFL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RFPL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RSDC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "RURU": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SMJC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9159,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "SALICO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SALICOPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SAHAS": {
+                "totalBuyQty": 4360,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 504.0,
+                            "quantity": 900,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 503.0,
+                            "quantity": 900,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 501.0,
+                            "quantity": 950,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 500.0,
+                            "quantity": 600,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 496.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 508.0,
+                            "quantity": 100,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 8021,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 100
+            },
+            "STC": {
+                "totalBuyQty": 10,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 5195.0,
+                            "quantity": 10,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 5400.0,
+                            "quantity": 50,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 155,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 50
+            },
+            "SAMAJ": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SAMAJP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SMPDAP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SFCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SFCLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SLBSL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SKBBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SNMAPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SAND2085": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SBD87": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SLCF": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2923,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "SBD89": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SGIC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SGICP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SAGF": {
+                "totalBuyQty": 1500,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 9.04,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 8.99,
+                            "quantity": 500,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9139,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "SHPC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "TAMOR": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SRLI": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SJCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SAPDBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SPHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SADBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SICLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SHINEP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SHIVM": {
+                "totalBuyQty": 7910,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 530.0,
+                            "quantity": 200,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 527.0,
+                            "quantity": 5000,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 526.0,
+                            "quantity": 300,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 525.0,
+                            "quantity": 1080,
+                            "orderCount": 2,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 524.0,
+                            "quantity": 150,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 544.0,
+                            "quantity": 2800,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 544.2,
+                            "quantity": 517,
+                            "orderCount": 2,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2809,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 3317
+            },
+            "SIFC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SIFCPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SHLB": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SBLD83": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SBLD84": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SIGS2": {
+                "totalBuyQty": 1000,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 9.48,
+                            "quantity": 1000,
+                            "orderCount": 1,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 9.86,
+                            "quantity": 400,
+                            "orderCount": 1,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2859,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 400
+            },
+            "SEF": {
+                "totalBuyQty": 3000,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 9.66,
+                            "quantity": 3000,
+                            "orderCount": 3,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 2770,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "SPIL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SPILPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SIKLES": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SINDUP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SHEL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SCB": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SCBPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SRBLD83": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SMHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SMH": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SMBPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SJLICP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SJLIC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SWMFPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SWBBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SWBBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SMFBS": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SLBBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 545,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "SLBBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SGHC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "SPDL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "TSHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "UNHPL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "UNLBP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "UAILPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "UAIL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "UMRH": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "UMHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "UPCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "USLBP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ULBSLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "UHEWA": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "USHEC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "VLBS": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "VLBSPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "VLUCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        },
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 1,
+                            "buy": true,
+                            "sell": false
+                        }
+                    ],
+                    "sellMarketDepthList": [
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        },
+                        {
+                            "stockId": 9225,
+                            "orderBookOrderPrice": 0.0,
+                            "quantity": 0,
+                            "orderCount": 0,
+                            "isBuy": 2,
+                            "buy": false,
+                            "sell": true
+                        }
+                    ]
+                },
+                "totalSellQty": 0
+            },
+            "WNLB": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "WNLBP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            }
+        }
+    }
+]
