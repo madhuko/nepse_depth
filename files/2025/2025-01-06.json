@@ -48207,8 +48207,6 @@
                 },
                 "totalSellQty": 0
             },
-            "KBL": "error code ",
-            "KBLD89": "error code ",
             "KEF": {
                 "totalBuyQty": 6560,
                 "marketDepth": {
@@ -49017,7 +49015,6 @@
                 },
                 "totalSellQty": 80
             },
-            "LVF2": "error code ",
             "LSL": {
                 "totalBuyQty": 46901,
                 "marketDepth": {
@@ -49734,7 +49731,6 @@
                 },
                 "totalSellQty": 43935
             },
-            "LBBLPO": "error code ",
             "MBLD2085": {
                 "totalBuyQty": 0,
                 "marketDepth": {

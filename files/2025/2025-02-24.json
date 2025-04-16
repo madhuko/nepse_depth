@@ -2,7 +2,6 @@
     {
         "timestamp": "2025-02-24T11:01:03.354405",
         "data": {
-            "USHL": "error code Expecting value: line 1 column 1 (char 0)",
             "ACLBSL": {
                 "totalBuyQty": 12548,
                 "marketDepth": {
@@ -111,7 +110,6 @@
                 },
                 "totalSellQty": 0
             },
-            "ANLB": "error code Expecting value: line 1 column 1 (char 0)",
             "ANLBP": {
                 "totalBuyQty": 0,
                 "marketDepth": {

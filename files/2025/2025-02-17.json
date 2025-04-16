@@ -132946,7 +132946,6 @@
                 },
                 "totalSellQty": 0
             },
-            "IGI": "error code ",
             "ILBS": {
                 "totalBuyQty": 4951,
                 "marketDepth": {
@@ -133247,7 +133246,6 @@
                 },
                 "totalSellQty": 24282
             },
-            "JFL": "error code ",
             "JFLPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -133256,7 +133254,6 @@
                 },
                 "totalSellQty": 0
             },
-            "JSLBB": "error code ",
             "JSLBBP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -133273,7 +133270,6 @@
                 },
                 "totalSellQty": 0
             },
-            "JBLB": "error code ",
             "JOSHI": {
                 "totalBuyQty": 140887,
                 "marketDepth": {
@@ -133582,11 +133578,6 @@
                 },
                 "totalSellQty": 35195
             },
-            "KMCDB": "error code ",
-            "KMCDBP": "error code ",
-            "KPCL": "error code ",
-            "KDL": "error code ",
-            "KDLP": "error code ",
             "KSBBLP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -133995,8 +133986,6 @@
                 },
                 "totalSellQty": 575
             },
-            "KBLPO": "error code ",
-            "KBL": "error code ",
             "KBLD89": {
                 "totalBuyQty": 200,
                 "marketDepth": {
@@ -134197,7 +134186,6 @@
                 },
                 "totalSellQty": 407500
             },
-            "KDBY": "error code ",
             "KSY": {
                 "totalBuyQty": 800,
                 "marketDepth": {
@@ -134498,7 +134486,6 @@
                 },
                 "totalSellQty": 0
             },
-            "LUK": "error code ",
             "LLBSPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {

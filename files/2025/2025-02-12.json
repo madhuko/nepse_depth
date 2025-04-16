@@ -102,8 +102,6 @@
                 },
                 "totalSellQty": 7555
             },
-            "ACLBSL": "error code Expecting value: line 1 column 1 (char 0)",
-            "ACLBSLP": "error code Expecting value: line 1 column 1 (char 0)",
             "ANLB": {
                 "totalBuyQty": 16399,
                 "marketDepth": {
@@ -204,7 +202,6 @@
                 },
                 "totalSellQty": 781
             },
-            "ANLBP": "error code Expecting value: line 1 column 1 (char 0)",
             "ADBL": {
                 "totalBuyQty": 100,
                 "marketDepth": {
@@ -405,8 +402,6 @@
                 },
                 "totalSellQty": 18
             },
-            "ADBLB": "error code Expecting value: line 1 column 1 (char 0)",
-            "ADBLB86": "error code Expecting value: line 1 column 1 (char 0)",
             "ADBLB87": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -415,7 +410,6 @@
                 },
                 "totalSellQty": 0
             },
-            "AKJCL": "error code Expecting value: line 1 column 1 (char 0)",
             "API": {
                 "totalBuyQty": 2700,
                 "marketDepth": {
@@ -516,7 +510,6 @@
                 },
                 "totalSellQty": 1218
             },
-            "AKPL": "error code Expecting value: line 1 column 1 (char 0)",
             "AHPC": {
                 "totalBuyQty": 2500,
                 "marketDepth": {
@@ -717,9 +710,6 @@
                 },
                 "totalSellQty": 5072
             },
-            "ALBSLP": "error code Expecting value: line 1 column 1 (char 0)",
-            "AHL": "error code Expecting value: line 1 column 1 (char 0)",
-            "ALICLP": "error code Expecting value: line 1 column 1 (char 0)",
             "ALICL": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -820,13 +810,6 @@
                 },
                 "totalSellQty": 591
             },
-            "AVYAN": "error code Expecting value: line 1 column 1 (char 0)",
-            "AVYANP": "error code Expecting value: line 1 column 1 (char 0)",
-            "BHL": "error code Expecting value: line 1 column 1 (char 0)",
-            "BOKD86": "error code Expecting value: line 1 column 1 (char 0)",
-            "BOKD86KA": "error code Expecting value: line 1 column 1 (char 0)",
-            "BHPL": "error code Expecting value: line 1 column 1 (char 0)",
-            "BARUN": "error code Expecting value: line 1 column 1 (char 0)",
             "BFC": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -935,12 +918,6 @@
                 },
                 "totalSellQty": 0
             },
-            "BGWT": "error code Expecting value: line 1 column 1 (char 0)",
-            "BEDC": "error code Expecting value: line 1 column 1 (char 0)",
-            "BHDC": "error code Expecting value: line 1 column 1 (char 0)",
-            "BBC": "error code Expecting value: line 1 column 1 (char 0)",
-            "BNL": "error code Expecting value: line 1 column 1 (char 0)",
-            "BNT": "error code Expecting value: line 1 column 1 (char 0)",
             "BNHC": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -1141,7 +1118,6 @@
                 },
                 "totalSellQty": 0
             },
-            "CMF2": "error code Expecting value: line 1 column 1 (char 0)",
             "CHDC": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -1350,7 +1326,6 @@
                 },
                 "totalSellQty": 0
             },
-            "CCBD88": "error code Expecting value: line 1 column 1 (char 0)",
             "CGH": {
                 "totalBuyQty": 38136,
                 "marketDepth": {
@@ -1451,15 +1426,6 @@
                 },
                 "totalSellQty": 42678
             },
-            "CBBLPO": "error code Expecting value: line 1 column 1 (char 0)",
-            "CBBL": "error code Expecting value: line 1 column 1 (char 0)",
-            "CHL": "error code Expecting value: line 1 column 1 (char 0)",
-            "CHCL": "error code Expecting value: line 1 column 1 (char 0)",
-            "CKHL": "error code Expecting value: line 1 column 1 (char 0)",
-            "CIT": "error code Expecting value: line 1 column 1 (char 0)",
-            "CITPO": "error code Expecting value: line 1 column 1 (char 0)",
-            "CLI": "error code Expecting value: line 1 column 1 (char 0)",
-            "C30MF": "error code Expecting value: line 1 column 1 (char 0)",
             "CIZBD90": {
                 "totalBuyQty": 400,
                 "marketDepth": {
@@ -1560,8 +1526,6 @@
                 },
                 "totalSellQty": 3
             },
-            "CZBILP": "error code Expecting value: line 1 column 1 (char 0)",
-            "CZBIL": "error code Expecting value: line 1 column 1 (char 0)",
             "CIZBD86": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -1762,7 +1726,6 @@
                 },
                 "totalSellQty": 0
             },
-            "CITY": "error code Expecting value: line 1 column 1 (char 0)",
             "PSDBLP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -1871,9 +1834,6 @@
                 },
                 "totalSellQty": 79
             },
-            "CORBL": "error code Expecting value: line 1 column 1 (char 0)",
-            "CORBLP": "error code Expecting value: line 1 column 1 (char 0)",
-            "CYCL": "error code Expecting value: line 1 column 1 (char 0)",
             "CYCLP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -1982,8 +1942,6 @@
                 },
                 "totalSellQty": 0
             },
-            "DDBLPO": "error code Expecting value: line 1 column 1 (char 0)",
-            "DLBS": "error code Expecting value: line 1 column 1 (char 0)",
             "DHPL": {
                 "totalBuyQty": 600,
                 "marketDepth": {
@@ -2284,8 +2242,6 @@
                 },
                 "totalSellQty": 0
             },
-            "EHPL": "error code Expecting value: line 1 column 1 (char 0)",
-            "ENL": "error code Expecting value: line 1 column 1 (char 0)",
             "ENLP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -2394,7 +2350,6 @@
                 },
                 "totalSellQty": 1168
             },
-            "EBLPO": "error code Expecting value: line 1 column 1 (char 0)",
             "EBLD85": {
                 "totalBuyQty": 299,
                 "marketDepth": {
@@ -2811,7 +2766,6 @@
                 },
                 "totalSellQty": 40956
             },
-            "FMDBLP": "error code Expecting value: line 1 column 1 (char 0)",
             "FOWAD": {
                 "totalBuyQty": 2797,
                 "marketDepth": {
@@ -3336,7 +3290,6 @@
                 },
                 "totalSellQty": 72933
             },
-            "GCIL": "error code Expecting value: line 1 column 1 (char 0)",
             "GIBF1": {
                 "totalBuyQty": 252050,
                 "marketDepth": {
@@ -3537,7 +3490,6 @@
                 },
                 "totalSellQty": 377
             },
-            "GBIMEP": "error code Expecting value: line 1 column 1 (char 0)",
             "GBILD86/87": {
                 "totalBuyQty": 100,
                 "marketDepth": {
@@ -3946,10 +3898,6 @@
                 },
                 "totalSellQty": 0
             },
-            "GFCLPO": "error code Expecting value: line 1 column 1 (char 0)",
-            "GWFD83": "error code Expecting value: line 1 column 1 (char 0)",
-            "GBLBS": "error code Expecting value: line 1 column 1 (char 0)",
-            "PDBLPO": "error code Expecting value: line 1 column 1 (char 0)",
             "GBLBSP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -4058,7 +4006,6 @@
                 },
                 "totalSellQty": 13491
             },
-            "GRDBLP": "error code Expecting value: line 1 column 1 (char 0)",
             "GVL": {
                 "totalBuyQty": 209,
                 "marketDepth": {
@@ -4675,7 +4622,6 @@
                 },
                 "totalSellQty": 0
             },
-            "GUFLPO": "error code Expecting value: line 1 column 1 (char 0)",
             "HATHY": {
                 "totalBuyQty": 23560,
                 "marketDepth": {
@@ -5276,7 +5222,6 @@
                 },
                 "totalSellQty": 20
             },
-            "HBL": "error code Expecting value: line 1 column 1 (char 0)",
             "HBLPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -5285,12 +5230,6 @@
                 },
                 "totalSellQty": 0
             },
-            "HDL": "error code Expecting value: line 1 column 1 (char 0)",
-            "HEI": "error code Expecting value: line 1 column 1 (char 0)",
-            "HEIP": "error code Expecting value: line 1 column 1 (char 0)",
-            "HHL": "error code Expecting value: line 1 column 1 (char 0)",
-            "HLBSL": "error code Expecting value: line 1 column 1 (char 0)",
-            "HLBSLP": "error code Expecting value: line 1 column 1 (char 0)",
             "HLI": {
                 "totalBuyQty": 200,
                 "marketDepth": {
@@ -5399,7 +5338,6 @@
                 },
                 "totalSellQty": 0
             },
-            "HPPL": "error code Expecting value: line 1 column 1 (char 0)",
             "HRL": {
                 "totalBuyQty": 67394,
                 "marketDepth": {
@@ -5500,7 +5438,6 @@
                 },
                 "totalSellQty": 40449
             },
-            "HIDCL": "error code Expecting value: line 1 column 1 (char 0)",
             "HIDCLP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -5817,7 +5754,6 @@
                 },
                 "totalSellQty": 0
             },
-            "ICFCD83": "error code Expecting value: line 1 column 1 (char 0)",
             "IGIPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -5826,7 +5762,6 @@
                 },
                 "totalSellQty": 0
             },
-            "IGI": "error code Expecting value: line 1 column 1 (char 0)",
             "ILBS": {
                 "totalBuyQty": 4080,
                 "marketDepth": {
@@ -6135,10 +6070,6 @@
                 },
                 "totalSellQty": 0
             },
-            "JFLPO": "error code Expecting value: line 1 column 1 (char 0)",
-            "JSLBB": "error code Expecting value: line 1 column 1 (char 0)",
-            "JSLBBP": "error code Expecting value: line 1 column 1 (char 0)",
-            "JBLBP": "error code Expecting value: line 1 column 1 (char 0)",
             "JBLB": {
                 "totalBuyQty": 78,
                 "marketDepth": {
@@ -6439,7 +6370,6 @@
                 },
                 "totalSellQty": 65
             },
-            "JBBLPO": "error code Expecting value: line 1 column 1 (char 0)",
             "JBBL": {
                 "totalBuyQty": 96536,
                 "marketDepth": {
@@ -6540,9 +6470,6 @@
                 },
                 "totalSellQty": 16235
             },
-            "KMCDB": "error code Expecting value: line 1 column 1 (char 0)",
-            "KMCDBP": "error code Expecting value: line 1 column 1 (char 0)",
-            "KPCL": "error code Expecting value: line 1 column 1 (char 0)",
             "KDL": {
                 "totalBuyQty": 5633,
                 "marketDepth": {
@@ -6643,7 +6570,6 @@
                 },
                 "totalSellQty": 9250
             },
-            "KDLP": "error code Expecting value: line 1 column 1 (char 0)",
             "KSBBLP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -7052,10 +6978,6 @@
                 },
                 "totalSellQty": 225
             },
-            "KBLPO": "error code Expecting value: line 1 column 1 (char 0)",
-            "KBL": "error code Expecting value: line 1 column 1 (char 0)",
-            "KBLD89": "error code Expecting value: line 1 column 1 (char 0)",
-            "KEF": "error code Expecting value: line 1 column 1 (char 0)",
             "KDBY": {
                 "totalBuyQty": 151736,
                 "marketDepth": {
@@ -7764,7 +7686,6 @@
                 },
                 "totalSellQty": 3
             },
-            "LVF2": "error code Expecting value: line 1 column 1 (char 0)",
             "LSL": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -7865,7 +7786,6 @@
                 },
                 "totalSellQty": 0
             },
-            "LSLPO": "error code Expecting value: line 1 column 1 (char 0)",
             "SFMF": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -8066,7 +7986,6 @@
                 },
                 "totalSellQty": 0
             },
-            "LEC": "error code Expecting value: line 1 column 1 (char 0)",
             "LICN": {
                 "totalBuyQty": 250,
                 "marketDepth": {
@@ -8175,8 +8094,6 @@
                 },
                 "totalSellQty": 0
             },
-            "LBBLD89": "error code Expecting value: line 1 column 1 (char 0)",
-            "LBBL": "error code Expecting value: line 1 column 1 (char 0)",
             "LBBLPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -8293,7 +8210,6 @@
                 },
                 "totalSellQty": 0
             },
-            "MBL": "error code Expecting value: line 1 column 1 (char 0)",
             "MBLD87": {
                 "totalBuyQty": 100,
                 "marketDepth": {
@@ -8494,10 +8410,6 @@
                 },
                 "totalSellQty": 50
             },
-            "MLBLD89": "error code Expecting value: line 1 column 1 (char 0)",
-            "MLBL": "error code Expecting value: line 1 column 1 (char 0)",
-            "MLBLPO": "error code Expecting value: line 1 column 1 (char 0)",
-            "MDBLPO": "error code Expecting value: line 1 column 1 (char 0)",
             "MLBSL": {
                 "totalBuyQty": 8837,
                 "marketDepth": {
@@ -8598,8 +8510,6 @@
                 },
                 "totalSellQty": 2312
             },
-            "MLBSLP": "error code Expecting value: line 1 column 1 (char 0)",
-            "MSLB": "error code Expecting value: line 1 column 1 (char 0)",
             "MSLBP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -9216,7 +9126,6 @@
                 },
                 "totalSellQty": 0
             },
-            "MFIL": "error code Expecting value: line 1 column 1 (char 0)",
             "MFLD85": {
                 "totalBuyQty": 15,
                 "marketDepth": {
@@ -9317,7 +9226,6 @@
                 },
                 "totalSellQty": 0
             },
-            "MLBS": "error code Expecting value: line 1 column 1 (char 0)",
             "MLBSP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -9834,7 +9742,6 @@
                 },
                 "totalSellQty": 22630
             },
-            "MERO": "error code Expecting value: line 1 column 1 (char 0)",
             "MEROPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -9843,8 +9750,6 @@
                 },
                 "totalSellQty": 0
             },
-            "MSHL": "error code Expecting value: line 1 column 1 (char 0)",
-            "MDB": "error code Expecting value: line 1 column 1 (char 0)",
             "MDBPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -9853,11 +9758,6 @@
                 },
                 "totalSellQty": 0
             },
-            "MLBBLP": "error code Expecting value: line 1 column 1 (char 0)",
-            "MLBBL": "error code Expecting value: line 1 column 1 (char 0)",
-            "MEL": "error code Expecting value: line 1 column 1 (char 0)",
-            "MHCL": "error code Expecting value: line 1 column 1 (char 0)",
-            "MEN": "error code Expecting value: line 1 column 1 (char 0)",
             "MHNL": {
                 "totalBuyQty": 20772,
                 "marketDepth": {
@@ -10582,9 +10482,6 @@
                 },
                 "totalSellQty": 0
             },
-            "NBF2": "error code Expecting value: line 1 column 1 (char 0)",
-            "NBLD82": "error code Expecting value: line 1 column 1 (char 0)",
-            "NBF3": "error code Expecting value: line 1 column 1 (char 0)",
             "NBLD85": {
                 "totalBuyQty": 15,
                 "marketDepth": {
@@ -10685,7 +10582,6 @@
                 },
                 "totalSellQty": 0
             },
-            "NABILD87": "error code Expecting value: line 1 column 1 (char 0)",
             "NADEP": {
                 "totalBuyQty": 5368,
                 "marketDepth": {
@@ -11010,7 +10906,6 @@
                 },
                 "totalSellQty": 0
             },
-            "NHPC": "error code Expecting value: line 1 column 1 (char 0)",
             "NLICLP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -11943,7 +11838,6 @@
                 },
                 "totalSellQty": 500
             },
-            "NIFRA": "error code Expecting value: line 1 column 1 (char 0)",
             "NIFRAP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -12160,7 +12054,6 @@
                 },
                 "totalSellQty": 0
             },
-            "NIMBD90": "error code Expecting value: line 1 column 1 (char 0)",
             "NIBLSTF": {
                 "totalBuyQty": 29285,
                 "marketDepth": {
@@ -12261,7 +12154,6 @@
                 },
                 "totalSellQty": 2000
             },
-            "NIBD84": "error code Expecting value: line 1 column 1 (char 0)",
             "NIBSF2": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -12762,7 +12654,6 @@
                 },
                 "totalSellQty": 300
             },
-            "NLICP": "error code Expecting value: line 1 column 1 (char 0)",
             "NLO": {
                 "totalBuyQty": 57281,
                 "marketDepth": {
@@ -12963,7 +12854,6 @@
                 },
                 "totalSellQty": 2050
             },
-            "NRICP": "error code Expecting value: line 1 column 1 (char 0)",
             "NRM": {
                 "totalBuyQty": 155561,
                 "marketDepth": {
@@ -13588,7 +13478,6 @@
                 },
                 "totalSellQty": 0
             },
-            "NMLBBL": "error code Expecting value: line 1 column 1 (char 0)",
             "NESDO": {
                 "totalBuyQty": 10,
                 "marketDepth": {
@@ -13689,9 +13578,6 @@
                 },
                 "totalSellQty": 0
             },
-            "NESDOP": "error code Expecting value: line 1 column 1 (char 0)",
-            "NGPL": "error code Expecting value: line 1 column 1 (char 0)",
-            "NIBLGF": "error code Expecting value: line 1 column 1 (char 0)",
             "NICD88": {
                 "totalBuyQty": 100,
                 "marketDepth": {
@@ -13792,7 +13678,6 @@
                 },
                 "totalSellQty": 0
             },
-            "NICFC": "error code Expecting value: line 1 column 1 (char 0)",
             "NICGF2": {
                 "totalBuyQty": 69734,
                 "marketDepth": {
@@ -13893,7 +13778,6 @@
                 },
                 "totalSellQty": 68291
             },
-            "NICA": "error code Expecting value: line 1 column 1 (char 0)",
             "NICAP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -14102,8 +13986,6 @@
                 },
                 "totalSellQty": 70
             },
-            "NICAD85/86": "error code Expecting value: line 1 column 1 (char 0)",
-            "NICGF": "error code Expecting value: line 1 column 1 (char 0)",
             "NICBF": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -14528,7 +14410,6 @@
                 },
                 "totalSellQty": 0
             },
-            "NLG": "error code Expecting value: line 1 column 1 (char 0)",
             "NMBMF": {
                 "totalBuyQty": 13355,
                 "marketDepth": {
@@ -14637,7 +14518,6 @@
                 },
                 "totalSellQty": 0
             },
-            "NMBPO": "error code Expecting value: line 1 column 1 (char 0)",
             "NMB": {
                 "totalBuyQty": 30,
                 "marketDepth": {
@@ -15954,7 +15834,6 @@
                 },
                 "totalSellQty": 0
             },
-            "PFL": "error code Expecting value: line 1 column 1 (char 0)",
             "PFLPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -15963,8 +15842,6 @@
                 },
                 "totalSellQty": 0
             },
-            "PRVU": "error code Expecting value: line 1 column 1 (char 0)",
-            "PRFLPO": "error code Expecting value: line 1 column 1 (char 0)",
             "PRVUPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -18097,7 +17974,6 @@
                 },
                 "totalSellQty": 0
             },
-            "RMF2": "error code Expecting value: line 1 column 1 (char 0)",
             "RNLI": {
                 "totalBuyQty": 29596,
                 "marketDepth": {
@@ -18306,7 +18182,6 @@
                 },
                 "totalSellQty": 20251
             },
-            "RIDI": "error code Expecting value: line 1 column 1 (char 0)",
             "RFPL": {
                 "totalBuyQty": 100,
                 "marketDepth": {
@@ -20079,7 +19954,6 @@
                 },
                 "totalSellQty": 0
             },
-            "SLCF": "error code Expecting value: line 1 column 1 (char 0)",
             "SBD89": {
                 "totalBuyQty": 15,
                 "marketDepth": {
@@ -20280,7 +20154,6 @@
                 },
                 "totalSellQty": 19523
             },
-            "SGICP": "error code Expecting value: line 1 column 1 (char 0)",
             "SAGF": {
                 "totalBuyQty": 87825,
                 "marketDepth": {
@@ -21105,7 +20978,6 @@
                 },
                 "totalSellQty": 0
             },
-            "SADBL": "error code Expecting value: line 1 column 1 (char 0)",
             "SDBD87": {
                 "totalBuyQty": 115,
                 "marketDepth": {
@@ -21306,7 +21178,6 @@
                 },
                 "totalSellQty": 0
             },
-            "SICLPO": "error code Expecting value: line 1 column 1 (char 0)",
             "SHINEP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -22847,9 +22718,6 @@
                 },
                 "totalSellQty": 0
             },
-            "SIKLES": "error code Expecting value: line 1 column 1 (char 0)",
-            "SINDU": "error code Expecting value: line 1 column 1 (char 0)",
-            "SINDUP": "error code Expecting value: line 1 column 1 (char 0)",
             "SHEL": {
                 "totalBuyQty": 175501,
                 "marketDepth": {
@@ -23458,7 +23326,6 @@
                 },
                 "totalSellQty": 19464
             },
-            "SRBLD83": "error code Expecting value: line 1 column 1 (char 0)",
             "SBCF": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -23959,7 +23826,6 @@
                 },
                 "totalSellQty": 5523
             },
-            "SMBPO": "error code Expecting value: line 1 column 1 (char 0)",
             "SJLICP": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -24168,7 +24034,6 @@
                 },
                 "totalSellQty": 5789
             },
-            "SWMFPO": "error code Expecting value: line 1 column 1 (char 0)",
             "SWBBL": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -24593,7 +24458,6 @@
                 },
                 "totalSellQty": 0
             },
-            "SPDL": "error code Expecting value: line 1 column 1 (char 0)",
             "TRH": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -24794,7 +24658,6 @@
                 },
                 "totalSellQty": 0
             },
-            "TSHL": "error code Expecting value: line 1 column 1 (char 0)",
             "TVCL": {
                 "totalBuyQty": 18025,
                 "marketDepth": {
@@ -25095,7 +24958,6 @@
                 },
                 "totalSellQty": 59714
             },
-            "UNLBP": "error code Expecting value: line 1 column 1 (char 0)",
             "UNLB": {
                 "totalBuyQty": 9384,
                 "marketDepth": {
@@ -25812,8 +25674,6 @@
                 },
                 "totalSellQty": 0
             },
-            "ULBSLPO": "error code Expecting value: line 1 column 1 (char 0)",
-            "UHEWA": "error code Expecting value: line 1 column 1 (char 0)",
             "ULHC": {
                 "totalBuyQty": 31324,
                 "marketDepth": {
@@ -26014,8 +25874,6 @@
                 },
                 "totalSellQty": 10
             },
-            "UPPER": "error code Expecting value: line 1 column 1 (char 0)",
-            "VLBS": "error code Expecting value: line 1 column 1 (char 0)",
             "VLBSPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -26024,7 +25882,6 @@
                 },
                 "totalSellQty": 0
             },
-            "VLUCL": "error code Expecting value: line 1 column 1 (char 0)",
             "WNLB": {
                 "totalBuyQty": 2782,
                 "marketDepth": {
@@ -26124,8 +25981,7 @@
                     ]
                 },
                 "totalSellQty": 592
-            },
-            "WNLBP": "error code Expecting value: line 1 column 1 (char 0)"
+            }
         }
     },
     {

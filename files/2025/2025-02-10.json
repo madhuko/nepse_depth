@@ -189563,10 +189563,6 @@
                 },
                 "totalSellQty": 0
             },
-            "HDL": "error code ",
-            "HEI": "error code ",
-            "HEIP": "error code ",
-            "HHL": "error code ",
             "HLBSL": {
                 "totalBuyQty": 4155,
                 "marketDepth": {
@@ -189675,7 +189671,6 @@
                 },
                 "totalSellQty": 0
             },
-            "HLI": "error code ",
             "HLIPO": {
                 "totalBuyQty": 0,
                 "marketDepth": {
@@ -189684,7 +189679,6 @@
                 },
                 "totalSellQty": 0
             },
-            "HPPL": "error code ",
             "HRL": {
                 "totalBuyQty": 52861,
                 "marketDepth": {
@@ -189785,7 +189779,6 @@
                 },
                 "totalSellQty": 35326
             },
-            "HIDCL": "error code ",
             "HIDCLP": {
                 "totalBuyQty": 153648,
                 "marketDepth": {
@@ -189886,10 +189879,6 @@
                 },
                 "totalSellQty": 194450
             },
-            "ILI": "error code ",
-            "ILIP": "error code ",
-            "ICFC": "error code ",
-            "ICFCPO": "error code ",
             "ICFCD83": {
                 "totalBuyQty": 270,
                 "marketDepth": {
@@ -189990,7 +189979,6 @@
                 },
                 "totalSellQty": 520
             },
-            "IGIPO": "error code ",
             "IGI": {
                 "totalBuyQty": 20641,
                 "marketDepth": {
