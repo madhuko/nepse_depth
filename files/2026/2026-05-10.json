@@ -2301,5 +2301,786 @@
                 "totalSellQty": 0
             }
         }
+    },
+    {
+        "timestamp": "2026-05-10T14:18:25.894973",
+        "data": {
+            "CHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "C30MF": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CITY": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "CORBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "DDBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "EHPL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "EBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "EBLD86": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "EBLEB89": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "EBLD91": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "EDBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "FMDBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "FOWAD": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GSY": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBBD85": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GCIL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GIBF1": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBIME": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBIMEP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBILD84/85": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GILB": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GILBPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GFCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GFCLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GWFD83": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBLBS": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "PDBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GBLBSP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GRDBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GVL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GMLIP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GMFIL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GMFILP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GLBSL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GUFL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "GUFLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HATHY": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HDHPC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HBLD86": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "H8020": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HBLD83": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HBL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HBLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HDL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HEI": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HEIP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HLBSLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HLBSL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HLI": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HLIPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HLICF": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HPPL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HRL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HFIN": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "HIDCL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ILI": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ILIP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ICFCD83": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ICFCD88": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ICFCD89": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "IGIPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ILBS": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "ILBSP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "IHL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "JBLBP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "JHAPA": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "JOSHI": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KDLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KSBBLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KKHC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KBLD86": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KDBY": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "KBSH": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "LLBSPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "LBLD88": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MLBSLP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MAKAR": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MFLD85": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "MPFLPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NABILP": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NBF3": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NABILD87": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NABILD2089": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NABBC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NHPC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NIL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NBLD87": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NTC": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NFSPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NHDL": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NIFRA": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NIFRAGED": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            },
+            "NIMBPO": {
+                "totalBuyQty": 0,
+                "marketDepth": {
+                    "buyMarketDepthList": [],
+                    "sellMarketDepthList": []
+                },
+                "totalSellQty": 0
+            }
+        }
     }
 ]
